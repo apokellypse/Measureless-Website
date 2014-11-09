@@ -93,6 +93,20 @@ body {
     background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 77%,rgba(0,0,0,0.07) 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#12000000',GradientType=0 ); /* IE6-9 */
 }
+#memberinfo ul {list-style-type: none;
+                text-align: left;
+                line-height: 20px}
+
+#memberinfo li {border-bottom: 1px solid #000000;
+                padding-bottom: 15px;}
+
+img {width: 150px;
+    height: 225px;
+    float: right;
+    margin: 15px;
+    clear: right;
+    border: 3px solid;
+    border-color: #000000}
 
 
 /* 

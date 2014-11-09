@@ -1,9 +1,9 @@
 <nav>
 <ul>
-    <li> about</li>
-    <li>members</li>
-    <li>media</li>
-    <li>get involved</li>
+    <li> <a href="about.php"> about</a></li>
+    <li><a href="member.php"> members</a></li>
+    <li><a href="media.php">media</a></li>
+    <li><a href="getinvolved.php">get involved</a></li>
     
     
     </ul>

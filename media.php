@@ -10,12 +10,7 @@
 	<?php include "nav.php";?>    
 	<?php include "header.php";?>    
 
-	<div class="content" id="slideshow">
-	    </div>
-	    
-	<div class="content" id="announcements">
-	    
-	    </div>
+	<div class="content" id="youtube">
 
 	<!--Start content here-->
 
@@ -43,6 +38,8 @@
 	<iframe src="http://youtu.be/bnrHxje9gRU"></iframe>
 	<p>“Beautiful You”</p>
 	<p>2011 Break It Down Boston</p>
+        
+        </div>
 
 	<!--If provided, music samples here-->
 

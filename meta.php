@@ -7,7 +7,7 @@ echo '<meta charset="utf-8">
 	//this is for the tab icon
 	'<link rel="icon" type="image/ico" href="">'.
 	//this is for stylesheets
-	'<link rel="stylesheet" href="">'.
+	'<link rel="stylesheet" href="css/main.css">'.
 	//this is for scripts
 	'<script src=""></script>'
 ?>

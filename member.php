@@ -18,7 +18,7 @@
         <ul>
 
         	<li>
-        		<img alt="AP" src="memberpictures/andrewprofile.jpg"><br>
+        		<img alt="AP" src="img/andrewprofile.jpg"><br>
 				<strong>Andrew Park</strong><br>
 				<em>President</em><br>
 				Birthday: November 19, 1992<br>
@@ -35,7 +35,7 @@
 			
 
 			<li> 
-				<img alt="BL" src="memberpictures/boprofile.jpg"><br>
+				<img alt="BL" src="img/boprofile.jpg"><br>
 				<strong>Bo Long</strong><br>
 				<em>Member</em><br>
 				Birthday: October 14, 1992 <br>
@@ -50,7 +50,7 @@
 			</li>
 
 			<li>
-				<img alt="CQ" src="memberpictures/charlieprofile.jpg"><br>
+				<img alt="CQ" src="img/charlieprofile.jpg"><br>
 				<strong>Charlie Qian</strong><br>
 				<em>Public Relations Chair</em><br>
 				Birthday: August 14, 1995<br>
@@ -66,7 +66,7 @@
 
 
 			<li>
-				<img alt="DL" src="memberpictures/derekprofile.jpg"><br>
+				<img alt="DL" src="img/derekprofile.jpg"><br>
 				<strong>Derek Li</strong><br>
 				<em>Member</em><br>
 				Birthday: January 28th, 1995<br>
@@ -82,7 +82,7 @@
 			</li>
 
 			<li>
-				<img alt="JW" src="memberpictures/joyceprofile.jpg"><br>
+				<img alt="JW" src="img/joyceprofile.jpg"><br>
 				<strong>Joyce Wang</strong><br>
 				<em>Inreach Chair</em><br>
 				Birthday: June 5, 1995<br>
@@ -101,7 +101,7 @@
 			</li>
 
 			<li>
-				<img alt="FW" src="memberpictures/faithprofile.jpg"><br>
+				<img alt="FW" src="img/faithprofile.jpg"><br>
 				<strong>Faith Wang</strong><br>
 				<em>Rehearsal Director</em><br>
 				Birthday: February 15, 1996 <br>
@@ -117,7 +117,7 @@
 			</li>
 
 			<li>
-				<img alt="FL" src="memberpictures/frankprofile.jpg"><br>
+				<img alt="FL" src="img/frankprofile.jpg"><br>
 				<strong>Frank Lin</strong><br>
 				<em>Musical Director</em> <br>
 				Birthday: September 28, 1995<br>
@@ -132,7 +132,7 @@
 			</li>
 
 			<li>
-				<img alt="KL" src="memberpictures/kathyprofile.jpg"><br>
+				<img alt="KL" src="img/kathyprofile.jpg"><br>
 				<strong>Kathy Lin</strong><br>
 				<em>Member</em><br>
 				Birthday: April 10, 1996<br>
@@ -147,7 +147,7 @@
 			</li>
 
 			<li>
-				<img alt="EZ" src="memberpictures/mannyprofile.jpg"><br>
+				<img alt="EZ" src="img/mannyprofile.jpg"><br>
 				<strong>Emmanuel Zheng</strong><br>
 				<em>Member</em><br>
 				Birthday: January 6, 1996<br>
@@ -162,7 +162,7 @@
 			</li>
 
 			<li>
-				<img alt="RW" src="memberpictures/rayprofile.jpg"><br>
+				<img alt="RW" src="img/rayprofile.jpg"><br>
 				<strong>Ray Wu</strong> (guccirayne, the wuster)<br>
 				<em>Civilian</em><br>
 				Birthday: January 20, 1993<br>
@@ -177,7 +177,7 @@
 			</li>
 
 			<li>
-				<img alt="RL" src="memberpictures/rebeccaprofile.jpg"><br>
+				<img alt="RL" src="img/rebeccaprofile.jpg"><br>
 				<strong>Rebecca Lee</strong><br>
 				<em>Member</em><br>
 				Birthday: October 1, 2016<br>
@@ -192,7 +192,7 @@
 			</li>
 
 			<li>
-				<img alt="WL" src="memberpictures/willprofile.jpg"><br>
+				<img alt="WL" src="img/willprofile.jpg"><br>
 				<strong>William Loo</strong><br>
 				<em>Member</em><br>
 				Birthday: June 19, 1995<br>
@@ -211,7 +211,7 @@
 			</li>
 
 			<li>
-				<img alt="ZC" src="memberpictures/zoeprofile.jpg"><br>
+				<img alt="ZC" src="img/zoeprofile.jpg"><br>
 				<strong>Zoe Chan</strong><br>
 				<em>Member</em><br>
 				Birthday: February 6, 1996<br>

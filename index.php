@@ -15,14 +15,10 @@
 
 	<body>
 
-	<?php include "nav.php";?>    
+   	<?php include "nav.php";?> 
 	<?php include "header.php";?>  
-        
 
-
-
-
-	<div class="content" id="slideshow">
+    <div class="content" id="slideshow">
         <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px; margin: auto;">
     <!-- Slides Container -->
     <div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 600px; height: 300px;">

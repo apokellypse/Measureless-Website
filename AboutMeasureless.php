@@ -3,14 +3,14 @@
 	<html>
 
 		<head>
-			<meta charset="utf-8">
+			<?php include "meta.php";?>
 			<title>
 				About Measureless
 			</title>
 		</head>
 
 		<body>
-			<div>
+			<div class="content">
 				<h1>
 					Mission Statement (Purpose and Vision)</h1>
 				<p>

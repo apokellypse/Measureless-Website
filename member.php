@@ -12,7 +12,7 @@
  
 
 	    
-	<div class="content" id="memberinfo">
+	<div class="content" id="first">
 	    <h2>Meet The Voices of Mesaureless</h2>
         
         <ul>

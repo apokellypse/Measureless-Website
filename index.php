@@ -37,28 +37,16 @@
     <a href="img/themennoice.jpg" >
         
     </a>
-</div>
-    <!--
-        <div id="slider1_container" style="position: relative; top: 0px; left: 0px; width: 600px; height: 300px; margin: auto;">
-
-    <div u="slides" style="cursor: move; position: absolute; overflow: hidden; left: 0px; top: 0px; width: 600px; height: 300px;">
-        <div><img u="image" src="img/thewomennoice.jpg" alt="women"/></div>
-        <div><img u="image" src="img/themennoice.jpg" alt="men"/></div>
-    </div>
-
-        </div>
-</div>
-
--->
-	    </div>
+</div>	      <div id="banner"> <h4><em>Cornell's</em> Christian Acapella</h4></div>    </div>
    
+ 
+
 	<div class="content" id="announcements">
 	    <h2>Announcements</h1>
         
-        <ul>
-        <li>Check back soon for upcoming events!</li>
-        </ul>
-        
+
+        <p>Check back soon for upcoming events!</p>
+
 	    </div>
 	    
 	<?php include "footer.php";?>

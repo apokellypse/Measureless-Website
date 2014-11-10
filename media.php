@@ -7,10 +7,10 @@
 
 	<body>
 
-	<?php include "nav.php";?>    
-	<?php include "header.php";?>    
+	<?php include "nav2.php";?>    
+ 
 
-	<div class="content" id="youtube">
+	<div class="content" id="first">
 
 	<!--Start content here-->
 

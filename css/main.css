@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Gill;
+    src: url(Gill.TTF);
+}
+
 /*
  _   _             _             _   _             
 | \ | | __ ___   _(_) __ _  __ _| |_(_) ___  _ __  
@@ -9,24 +14,30 @@
 
 nav {
     position: fixed;
-    background-color: #f6f6f6;
-
+    background-color: white;
     top: 0px;
-    font-family: Arial;
+    font-family: Gill;
+    font-size: 20px;
     width: 100%;
     z-index: 1;
     text-align: right;
+    height: 50px;
+
+
+}
+nav ul {
+    margin-top: 0px;
 }
 
 nav li {
     list-style-type: none;
     display: inline-block;
-    margin: 0px 2% 0 2%;
+    margin: px 2% 0 2%;
 }
 
 a {
     text-decoration: none;
-    color: grey;
+    color: #87bbe2;
 }
 
 a:hover {
@@ -44,12 +55,17 @@ a:hover {
 #header {
     top: 50px;
     position: relative;
-    padding-left: 10%;
-    font-family: Arial, sans-serif;
+    padding-left: 25%;
+    font-family: Gill, sans-serif;
     font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 30px;
+    margin-bottom: 3%;
+    background-color: white;
 
 }
 h1 {
+
     font-size: 4em;
     margin: 0px;
 }
@@ -59,7 +75,8 @@ h3 {
 }
 
 h2 {
-    font-family: Arial;
+    text-align: center;
+    font-family: Gill;
 }
 
 /*
@@ -76,11 +93,10 @@ body {
     width: 100%;
 }
 .content {    
-    padding: 2% 20% 2% 20%;
-    text-align: justify;
+    padding: 2% 25% 2% 25%;
+    text-align: right;
     min-height: 250px;
-    
-    font-family: Garamound;
+    font-family: Lora;
 }
 
 .content:nth-child(odd) {
@@ -123,4 +139,7 @@ img {width: 150px;
 
 footer {
     text-align: center;
+    font-size: 0.75em;
+    font-family: Gill;
+    padding: 2% 0 1% 0;
 }

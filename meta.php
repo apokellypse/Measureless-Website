@@ -7,7 +7,8 @@ echo '<meta charset="utf-8">
 	//this is for the tab icon
 	'<link rel="icon" type="image/ico" href="">'.
 	//this is for stylesheets
-	'<link rel="stylesheet" href="css/main.css">'.
+    '<link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">'.
+	'<link rel="stylesheet" href="css/main2.css">'.
 	//this is for scripts
 	'<script src=""></script>'
 ?>

@@ -11,9 +11,8 @@
 
 		<body>
             
-	<?php include "nav.php";?>    
-	<?php include "header.php";?>   
-            
+	<?php include "nav2.php";?>    
+
 			<div class="content" id="mission">
 				<h2>
 					Mission Statement (Purpose and Vision)</h2>

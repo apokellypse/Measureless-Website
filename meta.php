@@ -9,6 +9,7 @@ echo '<meta charset="utf-8">
 	//this is for stylesheets
     '<link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">'.
 	'<link rel="stylesheet" href="css/main2.css">'.
+    '<link rel="stylesheet" href="css/blueimp-gallery.min.css">'.
 	//this is for scripts
 	'<script src=""></script>'
 ?>

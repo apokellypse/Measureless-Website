@@ -14,34 +14,53 @@
 
 nav {
     position: fixed;
-    background-color: white;
     top: 0px;
     font-family: Gill;
-    font-size: 20px;
     width: 100%;
-    z-index: 1;
-    text-align: right;
-    height: 50px;
+    z-index: 99999;
+    text-align: center;
+    height: 70px;
+    background-color: #f6f6f6;
+    padding: 15px;
+    overflow:visible;
+
 
 
 }
 nav ul {
-    margin-top: 0px;
+    letter-spacing: 3px;
+    font-size: 23px;
+    margin:0px;
 }
 
 nav li {
     list-style-type: none;
     display: inline-block;
-    margin: px 2% 0 2%;
+    margin: 0 20px 0 20px
+
+}
+h1 {
+     letter-spacing: 8px;
+    font-family: Lora;
+    font-size: 20px;
+    margin: 5px 0 0 0;
+    color: #333333;
 }
 
 a {
     text-decoration: none;
-    color: #87bbe2;
+    color: #999999;
 }
 
 a:hover {
-    color:#D7E4ED;
+    color:#87bbe2;
+}
+nav img{
+    margin: 0;
+    padding: 0 60px 0 60px;
+    height: 40px;
+    width: 40px;
+    border: none;
 }
 
 /*
@@ -64,11 +83,7 @@ a:hover {
     background-color: white;
 
 }
-h1 {
 
-    font-size: 4em;
-    margin: 0px;
-}
 h3 {
     font-size: 1em;
     margin: 0px;
@@ -93,12 +108,20 @@ body {
     width: 100%;
 }
 .content {    
-    padding: 2% 25% 2% 25%;
+    padding: 2% 20% 2% 20%;
     text-align: right;
-    min-height: 250px;
+    min-height: 100px;
     font-family: Lora;
 }
 
+#slideshow {
+    height: 500px;
+    padding: 0;
+    overflow:hidden;
+    background: #f6f6f6;
+    margin: 0;
+
+}
 .content:nth-child(odd) {
     background-color: #D7E4ED;
 }

@@ -10,7 +10,7 @@
 	<?php include "nav2.php";?>    
 
 	    
-	<div class="content" >
+	<div class="content" id="member" >
 	    <h2>Meet The Voices of Mesaureless</h2>
         
 

@@ -1,29 +1,24 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link rel="stylesheet" type="text/css" href="main.css">
 		<?php include "meta.php";?>
+		<title>Members</title>
   	</head>
 
-
 	<body>
-
-	<?php include "nav2.php";?>    
- 
-
-	    
-	<div class="content" id="first">
+		<?php include "nav2.php";?>    
+    
+		<div class="content" id="first">
 	    <h2>Meet The Voices of Mesaureless</h2>
         
         <ul>
-
         	<li>
         		<img alt="AP" src="img/andrewprofile.jpg"><br>
 				<strong>Andrew Park</strong><br>
 				<em>President</em><br>
-				Birthday: November 19, 1992<br>
-				Hometown:Cerritos, CA<br>
-				Class of: 2015 <br>
+<!-- 				Birthday: November 19, 1992<br>
+				Hometown:Cerritos, CA<br> -->
+				Class of 2015 <br>
 				School: School of Industrial and Labor Relations",<br>
 				Major: ILR <br>
 				Part: Tenor <br>
@@ -32,15 +27,14 @@
 				Motto: 'Is mayonaise and instrument?'<br>
 				
 			</li>
-			
 
 			<li> 
 				<img alt="BL" src="img/boprofile.jpg"><br>
 				<strong>Bo Long</strong><br>
 				<em>Member</em><br>
-				Birthday: October 14, 1992 <br>
-				Hometown: Houston, TX <br>
-				Class of: 2015<br>
+<!-- 				Birthday: October 14, 1992 <br>
+				Hometown: Houston, TX <br> -->
+				Class of 2015<br>
 				School: College of Engineering<br>
 				Major: Computer Science<br>
 				Part: Tenor <br>
@@ -53,9 +47,9 @@
 				<img alt="CQ" src="img/charlieprofile.jpg"><br>
 				<strong>Charlie Qian</strong><br>
 				<em>Public Relations Chair</em><br>
-				Birthday: August 14, 1995<br>
-				Hometown: Montville, NJ<br>
-				Class of: 2017<br>
+<!-- 				Birthday: August 14, 1995<br>
+				Hometown: Montville, NJ<br> -->
+				Class of 2017<br>
 				School: College of Engineering<br>
 				Major: Computer Science<br>
 				Part: Bass<br>
@@ -64,14 +58,13 @@
 				Motto: "wat"<br>
 			</li>
 
-
 			<li>
 				<img alt="DL" src="img/derekprofile.jpg"><br>
 				<strong>Derek Li</strong><br>
 				<em>Member</em><br>
-				Birthday: January 28th, 1995<br>
-				Hometown:"Queens, NY<br>
-				Class of: 2017<br>
+<!-- 				Birthday: January 28th, 1995<br>
+				Hometown:"Queens, NY<br> -->
+				Class of 2017<br>
 				School: College of Arts and Sciences<br>
 				Major: Latin<br>
 				Part: Tenor<br>
@@ -85,9 +78,9 @@
 				<img alt="JW" src="img/joyceprofile.jpg"><br>
 				<strong>Joyce Wang</strong><br>
 				<em>Inreach Chair</em><br>
-				Birthday: June 5, 1995<br>
-				Hometown: Holmdel, NJ <br>
-				Class of: 2017 <br>
+<!-- 				Birthday: June 5, 1995<br>
+				Hometown: Holmdel, NJ <br> -->
+				Class of 2017 <br>
 				School: College of Agriculture and Life Sciences <br>
 				Major: Applied Economics and Management <br>
 				Part: Alto <br>
@@ -104,9 +97,9 @@
 				<img alt="FW" src="img/faithprofile.jpg"><br>
 				<strong>Faith Wang</strong><br>
 				<em>Rehearsal Director</em><br>
-				Birthday: February 15, 1996 <br>
-				Hometown: Forest Hill, MD<br>
-				Class of: 2017<br>
+<!-- 				Birthday: February 15, 1996 <br>
+				Hometown: Forest Hill, MD<br> -->
+				Class of 2017<br>
 				School: College of Agriculture and Life Sciences <br>
 				Major: Design and Environmental Analysis<br>
 				Part: Soprano<br>
@@ -120,9 +113,9 @@
 				<img alt="FL" src="img/frankprofile.jpg"><br>
 				<strong>Frank Lin</strong><br>
 				<em>Musical Director</em> <br>
-				Birthday: September 28, 1995<br>
-				Hometown: Poughkeepsie, NY<br>
-				Class of: 2017<br>
+<!-- 				Birthday: September 28, 1995<br>
+				Hometown: Poughkeepsie, NY<br> -->
+				Class of 2017<br>
 				School: College of Arts and Sciences<br>
 				Major: Undecided<br>
 				Part: Bass<br>
@@ -135,9 +128,9 @@
 				<img alt="KL" src="img/kathyprofile.jpg"><br>
 				<strong>Kathy Lin</strong><br>
 				<em>Member</em><br>
-				Birthday: April 10, 1996<br>
-				Hometown: Pleasanton, CA<br>
-				Class of: 2018<br>
+<!-- 				Birthday: April 10, 1996<br>
+				Hometown: Pleasanton, CA<br> -->
+				Class of 2018<br>
 				School: College of Human Ecology<br>
 				Major: Policy Analysis and Management<br>
 				Part: Alto<br>
@@ -150,9 +143,9 @@
 				<img alt="EZ" src="img/mannyprofile.jpg"><br>
 				<strong>Emmanuel Zheng</strong><br>
 				<em>Member</em><br>
-				Birthday: January 6, 1996<br>
-				Hometown: Potsdam, NY<br>
-				Class of: 2018<br>
+<!-- 				Birthday: January 6, 1996<br>
+				Hometown: Potsdam, NY<br> -->
+				Class of 2018<br>
 				School: College of Arts and Sciences<br>
 				Major: Economics<br>
 				Part: Bass<br>
@@ -165,9 +158,9 @@
 				<img alt="RW" src="img/rayprofile.jpg"><br>
 				<strong>Ray Wu</strong> (guccirayne, the wuster)<br>
 				<em>Civilian</em><br>
-				Birthday: January 20, 1993<br>
-				Hometown: Great Neck, NY<br>
-				Class of: 2015<br>
+<!-- 				Birthday: January 20, 1993<br>
+				Hometown: Great Neck, NY<br> -->
+				Class of 2015<br>
 				School: College of Arts and Sciences<br>
 				Major: Biometry and Statistics<br>
 				Part: Tenor
@@ -180,9 +173,9 @@
 				<img alt="RL" src="img/rebeccaprofile.jpg"><br>
 				<strong>Rebecca Lee</strong><br>
 				<em>Member</em><br>
-				Birthday: October 1, 2016<br>
-				Hometown: Columbia, MD<br>
-				Class of: 2018<br>
+<!-- 				Birthday: October 1, 2016<br>
+				Hometown: Columbia, MD<br> -->
+				Class of 2018<br>
 				School: College of Arts and Sciences<br>
 				Major: Psychology<br>
 				Part: Alto<br>
@@ -195,11 +188,11 @@
 				<img alt="WL" src="img/willprofile.jpg"><br>
 				<strong>William Loo</strong><br>
 				<em>Member</em><br>
-				Birthday: June 19, 1995<br>
-				Hometown: Scarsdale, NY<br>
-				Class of: 2017 <br>
+<!-- 				Birthday: June 19, 1995<br>
+				Hometown: Scarsdale, NY<br> -->
+				Class of 2017 <br>
 				School: College of Engineering<br>
-				Major: Operations Research & Information Engineering<br>
+				Major: Operations Research &amp; Information Engineering<br>
 				Part: Tenor<br>
 				Favorite Artist: Ed Sheeran<br>
 				Favorite Verse:'Who of you by worrying can add a single hour to his life? Therefore do not worry about tomorrow, for tomorow will worry about itself...Each day has enough trouble of its own.' ~Matthew 6:27,34<br>
@@ -214,9 +207,9 @@
 				<img alt="ZC" src="img/zoeprofile.jpg"><br>
 				<strong>Zoe Chan</strong><br>
 				<em>Member</em><br>
-				Birthday: February 6, 1996<br>
-				Hometown: Long Island, NY<br>
-				Class of: 2018 <br>
+<!-- 				Birthday: February 6, 1996<br>
+				Hometown: Long Island, NY<br> -->
+				Class of 2018 <br>
 				School: College of Engineering<br>
 				Major: Civil Engineering<br>
 				Part: Soprano<br>
@@ -227,7 +220,7 @@
 			</li>
 		</ul>
         
-	    </div>
+   		</div>
 	    
 	<?php include "footer.php";?>
 	    

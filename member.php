@@ -9,50 +9,54 @@
 	<body>
 
 	<?php include "nav2.php";?>    
- 
+   
 
 	    
-	<div class="content" id="first">
+	<div class="content" id="members">
 	    <h2>Meet The Voices of Mesaureless</h2>
         
-        <ul>
 
-        	<li>
-        		<img alt="AP" src="img/andrewprofile.jpg"><br>
-				<strong>Andrew Park</strong><br>
-				<em>President</em><br>
-				Birthday: November 19, 1992<br>
-				Hometown:Cerritos, CA<br>
-				Class of: 2015 <br>
-				School: School of Industrial and Labor Relations",<br>
-				Major: ILR <br>
-				Part: Tenor <br>
-				Favorite Artist: Boyz II Men <br>
-				Favorite Verse: 'Rejoice in the Lord always; again I will say, rejoice.' ~Philippians 4:4 <br>
-				Motto: 'Is mayonaise and instrument?'<br>
-				
-			</li>
-			
+        <div class="view">
+            <img alt="AP" src="img/andrewprofile.jpg">
+                <div class="mask">
+                  <h2>Andrew Park</h2>
+                  <p><em>President</em><br>
+					Birthday: November 19, 1992<br>
+					Hometown:Cerritos, CA<br>
+					Class of: 2015 <br>
+					School: School of Industrial and Labor Relations",<br>
+					Major: ILR <br>
+					Part: Tenor <br>
+					Favorite Artist: Boyz II Men <br>
+					Favorite Verse: 'Rejoice in the Lord always; again I will say, rejoice.' ~Philippians 4:4 <br>
+					Motto: 'Is mayonaise and instrument?'<br>
+				</p>
+                </div>
+            </div>
 
-			<li> 
-				<img alt="BL" src="img/boprofile.jpg"><br>
-				<strong>Bo Long</strong><br>
-				<em>Member</em><br>
-				Birthday: October 14, 1992 <br>
-				Hometown: Houston, TX <br>
-				Class of: 2015<br>
-				School: College of Engineering<br>
-				Major: Computer Science<br>
-				Part: Tenor <br>
-				Favorite Artist: Coldplay, Bastille<br>
-				Favorite Verse:'The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace' ~Numbers 6:24-26 <br>
-				Motto:'Never attribute to malice that which can be adequately explained by stupidity'<br>
-			</li>
+        <div class="view">
+            <img alt="BL" src="img/boprofile.jpg">
+                <div class="mask">
+                  <h2>Bo Long</h2>
+                  <p><em>Member</em><br>
+					Birthday: October 14, 1992 <br>
+					Hometown: Houston, TX <br>
+					Class of: 2015<br>
+					School: College of Engineering<br>
+					Major: Computer Science<br>
+					Part: Tenor <br>
+					Favorite Artist: Coldplay, Bastille<br>
+					Favorite Verse:'The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace' ~Numbers 6:24-26 <br>
+					Motto:'Never attribute to malice that which can be adequately explained by stupidity'<br>
+				</p>
+                </div>
+            </div>	
 
-			<li>
-				<img alt="CQ" src="img/charlieprofile.jpg"><br>
-				<strong>Charlie Qian</strong><br>
-				<em>Public Relations Chair</em><br>
+			<div class="view">
+            <img alt="CQ" src="img/charlieprofile.jpg">
+                <div class="mask">
+				<h2>Charlie Qian</h2>
+				<p><em>Public Relations Chair</em><br>
 				Birthday: August 14, 1995<br>
 				Hometown: Montville, NJ<br>
 				Class of: 2017<br>
@@ -61,30 +65,35 @@
 				Part: Bass<br>
 				Fav Artist: Tim Be Told<br>
 				Favorite Verse:'For I am convinced that neither death nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.' ~Romans 8:38-39<br>
-				Motto: "wat"<br>
-			</li>
+				Motto: 'Wut'
+			</p>
+             	</div>
+            </div>
 
 
-			<li>
+			<div class="view">
 				<img alt="DL" src="img/derekprofile.jpg"><br>
-				<strong>Derek Li</strong><br>
-				<em>Member</em><br>
+				<div class="mask">
+				<h2>Derek Li</h2>
+				<p><em>Member</em><br>
 				Birthday: January 28th, 1995<br>
-				Hometown:"Queens, NY<br>
+				Hometown: Queens, NY<br>
 				Class of: 2017<br>
 				School: College of Arts and Sciences<br>
 				Major: Latin<br>
 				Part: Tenor<br>
 				Favorite Artist: <br>
 				Favorite Verse:'For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.' ~2 Corinthians 12:10<br>
-				Motto:'Yo, be mah gurl' (because it gets him the girls) <br>
-				      'One day, you’ll wake up and realize that I was right' (he always spits hella wisdom)
-			</li>
+				Motto: 'One day, you’ll wake up and realize that I was right' (he always spits hella wisdom)
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="JW" src="img/joyceprofile.jpg"><br>
-				<strong>Joyce Wang</strong><br>
-				<em>Inreach Chair</em><br>
+				<div class="mask">
+				<h2>Joyce Wang</h2>
+				<p><em>Inreach Chair</em><br>
 				Birthday: June 5, 1995<br>
 				Hometown: Holmdel, NJ <br>
 				Class of: 2017 <br>
@@ -93,17 +102,16 @@
 				Part: Alto <br>
 				Favorite Artist: David Crowder Band, Passion Pit, and OneRepublic<br>
 				Favorite Verse:'The LORD will fight for you; you only need to be still.' ~Exodus 14:14 <br>
-							'Whatever happens, conduct yourselves worthy of the gospel of Christ.' – Philippians 1:27a<br>
-							'He must become greater; I must become less.' – John 3:30<br>
-				Motto:'To be loved but not known is comforting but superficial. To be known and not loved is our greatest fear. But to be fully known and truly loved is, well, a lot like being loved by God. It is what we need more than anything. It liberates us from pretense, humbles us out of our self-righteousness, and fortifies us for any difficulty life can throw at us.' – Timothy Keller <br>
-				'Live a life that needs God to explain it.'<br>
-				'Unless there is an element of risk in your exploits for God, there is no need for faith.' – Hudson Taylor<br>
-			</li>
+				Motto:'Live a life that needs God to explain it.'<br>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="FW" src="img/faithprofile.jpg"><br>
-				<strong>Faith Wang</strong><br>
-				<em>Rehearsal Director</em><br>
+				<div class="mask">
+				<h2>Faith Wang</h2>
+				<p><em>Rehearsal Director</em><br>
 				Birthday: February 15, 1996 <br>
 				Hometown: Forest Hill, MD<br>
 				Class of: 2017<br>
@@ -112,14 +120,16 @@
 				Part: Soprano<br>
 				Favorite Artist: The Civil Wars<br>
 				Favorite Verse:'Be joyful in hope, patient in affliction, faithful in prayer.' ~Romans 12:12 <br>
-								'The Lord your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.' ~Zephaniah 3:17 <br>
 				Motto: 'Choose joy!'<br>
-			</li>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="FL" src="img/frankprofile.jpg"><br>
-				<strong>Frank Lin</strong><br>
-				<em>Musical Director</em> <br>
+				<div class="mask">
+				<h2>Frank Lin</h2>
+				<p><em>Musical Director</em> <br>
 				Birthday: September 28, 1995<br>
 				Hometown: Poughkeepsie, NY<br>
 				Class of: 2017<br>
@@ -129,12 +139,15 @@
 				Favorite Artist: The Spice Qurls<br>
 				Favorite Verse:'Jesus wept' ~John 11:35 <br>
 				Motto: 'do yau hom wok!!'
-			</li>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="KL" src="img/kathyprofile.jpg"><br>
-				<strong>Kathy Lin</strong><br>
-				<em>Member</em><br>
+				<div class="mask">
+				<h2>Kathy Lin</h2>
+				<p><em>Member</em><br>
 				Birthday: April 10, 1996<br>
 				Hometown: Pleasanton, CA<br>
 				Class of: 2018<br>
@@ -144,12 +157,15 @@
 				Favorite Artist: None, but listening to Jack Johnson always makes her happy<br>
 				Favorite Verse:'Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which suprasses all understanding, will guard your hearts and your minds in Christ Jesus.' ~Philippians 4:6-7<br>
 				Motto: Doesn't have one, but likes to cry instead <br>
-			</li>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="EZ" src="img/mannyprofile.jpg"><br>
-				<strong>Emmanuel Zheng</strong><br>
-				<em>Member</em><br>
+				<div class="mask">
+				<h2>Emmanuel Zheng</h2>
+				<p><em>Member</em><br>
 				Birthday: January 6, 1996<br>
 				Hometown: Potsdam, NY<br>
 				Class of: 2018<br>
@@ -159,12 +175,15 @@
 				Favorite Artist:"Ed Sheeran <br>
 				Favorite Verse:'Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.' ~Matthew 11:29<br>
 				Motto:'Oooooh that's Boomaction!'<br>
-			</li>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="RW" src="img/rayprofile.jpg"><br>
-				<strong>Ray Wu</strong> (guccirayne, the wuster)<br>
-				<em>Civilian</em><br>
+				<div class="mask">
+				<h2>Ray Wu</h2>
+				<p><em>Civilian</em><br>
 				Birthday: January 20, 1993<br>
 				Hometown: Great Neck, NY<br>
 				Class of: 2015<br>
@@ -174,12 +193,15 @@
 				Favorite Artist: Coldplay<br>
 				Favorite Verse:'Now He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness.' ~2 Corinthians 9:10<br>
 				Motto: 'Don't think before you speak'<br>
-			</li>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="RL" src="img/rebeccaprofile.jpg"><br>
-				<strong>Rebecca Lee</strong><br>
-				<em>Member</em><br>
+				<div class="mask">
+				<h2>Rebecca Lee</h2>
+				<p><em>Member</em><br>
 				Birthday: October 1, 2016<br>
 				Hometown: Columbia, MD<br>
 				Class of: 2018<br>
@@ -189,12 +211,15 @@
 				Favorite Artist: GOD<br>
 				Favorite Verse:'Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.' ~Joshua 1:9<br>
 				Motto:'Even in literature and art, no man who bothers about originality will ever be original: whereas if you simply try to tell the truth (without caring twopence how often it has been told before) you will, nine times out of ten, become original without ever having noticed it.'<br>
-			</li>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="WL" src="img/willprofile.jpg"><br>
-				<strong>William Loo</strong><br>
-				<em>Member</em><br>
+				<div class="mask">
+				<h2>William Loo</h2>
+				<p><em>Member</em><br>
 				Birthday: June 19, 1995<br>
 				Hometown: Scarsdale, NY<br>
 				Class of: 2017 <br>
@@ -203,17 +228,16 @@
 				Part: Tenor<br>
 				Favorite Artist: Ed Sheeran<br>
 				Favorite Verse:'Who of you by worrying can add a single hour to his life? Therefore do not worry about tomorrow, for tomorow will worry about itself...Each day has enough trouble of its own.' ~Matthew 6:27,34<br>
-				Motto: 'I don't want to do things. I want to not do things.'<br>
-						'What if soy milk is just milk introducing himself in Spanish?'<br>
-						'If you ever talk to me in Spanish, please use the formal usted form'<br>
-						'I'm allergic to sushi. Every time I eat more than 80 sushis, I barf.'<br>
-						'Why do today waht you can leave until tomorrow?'<br>
-			</li>
+				Motto: 'What if soy milk is just milk introducing himself in Spanish?'<br>
+			</p>
+             	</div>
+            </div>
 
-			<li>
+			<div class="view">
 				<img alt="ZC" src="img/zoeprofile.jpg"><br>
-				<strong>Zoe Chan</strong><br>
-				<em>Member</em><br>
+				<div class="mask">
+				<h2>Zoe Chan</h2>
+				<p><em>Member</em><br>
 				Birthday: February 6, 1996<br>
 				Hometown: Long Island, NY<br>
 				Class of: 2018 <br>
@@ -222,15 +246,14 @@
 				Part: Soprano<br>
 				Favorite Artist: Bastille, Mindy Glendhill, Beyonce, and David Crowder <br>
 				Favorite Verse:'for God gave us a spirit not of fear but of power and love and self-control.' ~2 Timothy 1:7<br>
-								Psalms 86<br>
 				Motto:'Life is cray cray, but Jesus is the way way'<br>
-			</li>
-		</ul>
-        
+			</p>
+             	</div>
+            </div>
+
 	    </div>
-	    
-	<?php include "footer.php";?>
-	    
+
+	<?php include "footer.php";?>   
 	</body>
 
 </html>

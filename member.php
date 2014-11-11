@@ -11,7 +11,7 @@
 	<?php include "nav2.php";?>    
 
 	    
-	<div class="contentm" id="member" >
+	<div class="content" id="member" >
 	    <h2>Meet The Voices of Measureless</h2>
         
 	    <section>
@@ -76,7 +76,7 @@
 |_.__/ \___|\__, |_|_| |_|\___\___/|_| |_|\__\___|_| |_|\__|
             |___/   2
 -->
-        <div class="contentm">
+        <div class="content">
 
 			<div class="view">
 				<img alt="DL" src="img/derekprofile.jpg"><br>
@@ -139,7 +139,7 @@
 |_.__/ \___|\__, |_|_| |_|\___\___/|_| |_|\__\___|_| |_|\__|
             |___/   3
 -->
-        <div class="contentm">
+        <div class="content">
 			<div class="view">
 				<img alt="FL" src="img/frankprofile.jpg"><br>
 				<div class="mask">
@@ -201,7 +201,7 @@
 |_.__/ \___|\__, |_|_| |_|\___\___/|_| |_|\__\___|_| |_|\__|
             |___/   4
 -->
-        <div class="contentm">
+        <div class="content">
 			<div class="view">
 				<img alt="RW" src="img/rayprofile.jpg"><br>
 				<div class="mask">

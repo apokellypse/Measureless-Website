@@ -36,7 +36,13 @@
 
     	<div class="content" id="announcements">
 	        <h2>Announcements</h2>
-            <p>Check back soon for upcoming events!</p>
+            
+            <div class="date">
+            Nov<br> 22
+            </div> <p> <em>3:00PM</em> Winter Concert - Anabel Taylor Hall Chapel
+            
+            </p>
+            
 	    </div>
 	    
     	<?php include "footer.php";?>

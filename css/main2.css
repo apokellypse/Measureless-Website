@@ -80,6 +80,8 @@ h2 {
     color:#ff9028;
     letter-spacing: 2px;
     font-size: 30px;
+    
+    
 }
 
 h4 {
@@ -122,6 +124,7 @@ body {
     min-height: 200px;
     font-family: Lora;
     background-color: white;
+    font-size: 20px;
 
 }
 
@@ -165,6 +168,11 @@ img {width: 150px;
     clear: right;
     border: 3px solid;
     border-color: #000000}
+/*     _    ____   ___  _   _ _____ 
+   / \  | __ ) / _ \| | | |_   _|
+  / _ \ |  _ \| | | | | | | | |  
+ / ___ \| |_) | |_| | |_| | | |  
+/_/   \_\____/ \___/ \___/  |_|  */
 
 
 /*__  __          _ _       
@@ -213,33 +221,44 @@ hr {
 
 #mission {
     background: #D7E4ED url("../img/contentbg1.png") no-repeat bottom left;
-    padding-right: 10%;
+    padding-right: 15%;
 }
 #mission h2 {
     text-align: right;
 }
 #mission p {
     text-align: right;
-    padding-left: 40%;
-    font-size: 20px;
-    color: #444;
+    padding-left: 35%;
 }
 
 #history {
-    background: white url("../img/contentbg2.png") no-repeat bottom right;
-        padding-left: 10%;
+    padding-left: 15%;
+    background: url("../img/contentbg2.png") no-repeat bottom right; -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 77%, rgba(0,0,0,0.07) 100%); /* FF3.6+ */
+    background: url("../img/contentbg2.png") no-repeat bottom right; -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(77%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.07))); /* Chrome,Safari4+ */
+    background: url("../img/contentbg2.png") no-repeat bottom right; -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 77%,rgba(0,0,0,0.07) 100%); /* Chrome10+,Safari5.1+ */
+    background: url("../img/contentbg2.png") no-repeat bottom right; -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 77%,rgba(0,0,0,0.07) 100%); /* Opera 11.10+ */
+    background: url("../img/contentbg2.png") no-repeat bottom right; -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 77%,rgba(0,0,0,0.07) 100%); /* IE10+ */
+    background: url("../img/contentbg2.png") no-repeat bottom right; linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 77%,rgba(0,0,0,0.07) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#12000000',GradientType=0 ); /* IE6-9 */
 }
 #history h2 {
     text-align: left;
 }
 #history p {
     text-align: left;
-    padding-right: 40%;
-
-    font-size: 20px;
-    color: #444;
+    padding-right: 35%;
 }
-
+#why {
+    background: #D7E4ED url("../img/contentbg3.png") no-repeat bottom left;
+    padding-right: 15%;
+}
+#why h2 {
+    text-align: right;
+}
+#why p {
+    text-align: right;
+    padding-left: 35%;
+}
 /* 
  _____           _            
 |  ___|__   ___ | |_ ___ _ __ 

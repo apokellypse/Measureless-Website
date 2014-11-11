@@ -8,7 +8,7 @@ echo '<meta charset="utf-8">
 	'<link rel="icon" type="image/ico" href="">'.
 	//this is for stylesheets
     '<link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">'.
-    '<link href="http://fonts.googleapis.com/css?family=Raleway:400,300,200" rel="stylesheet" type="text/css">'.
+    '<link href="http://fonts.googleapis.com/css?family=Raleway:400,300" rel="stylesheet" type="text/css">'.
 	'<link rel="stylesheet" href="css/main2.css">'.
     '<link rel="stylesheet" href="css/blueimp-gallery.min.css">'.
 	//this is for scripts

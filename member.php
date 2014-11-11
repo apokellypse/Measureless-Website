@@ -13,14 +13,14 @@
 	<div class="content" id="member" >
 	    <h2>Meet The Voices of Measureless</h2>
         
-
+	    <section>
         <div class="view">
             <img alt="AP" src="img/andrewprofile.jpg">
                 <div class="mask">
                   <h2>Andrew Park</h2>
                   <p><em>President</em><br>
-					Birthday: November 19, 1992<br>
-					Hometown:Cerritos, CA<br>
+<!-- 					Birthday: November 19, 1992<br>
+					Hometown:Cerritos, CA<br> -->
 					Class of: 2015 <br>
 					School: School of Industrial and Labor Relations",<br>
 					Major: ILR <br>
@@ -37,8 +37,8 @@
                 <div class="mask">
                   <h2>Bo Long</h2>
                   <p><em>Member</em><br>
-					Birthday: October 14, 1992 <br>
-					Hometown: Houston, TX <br>
+<!-- 					Birthday: October 14, 1992 <br>
+					Hometown: Houston, TX <br> -->
 					Class of: 2015<br>
 					School: College of Engineering<br>
 					Major: Computer Science<br>
@@ -55,8 +55,8 @@
                 <div class="mask">
 				<h2>Charlie Qian</h2>
 				<p><em>Public Relations Chair</em><br>
-				Birthday: August 14, 1995<br>
-				Hometown: Montville, NJ<br>
+<!-- 				Birthday: August 14, 1995<br>
+				Hometown: Montville, NJ<br> -->
 				Class of: 2017<br>
 				School: College of Engineering<br>
 				Major: Computer Science<br>
@@ -74,8 +74,8 @@
 				<div class="mask">
 				<h2>Derek Li</h2>
 				<p><em>Member</em><br>
-				Birthday: January 28th, 1995<br>
-				Hometown: Queens, NY<br>
+<!-- 				Birthday: January 28th, 1995<br>
+				Hometown: Queens, NY<br> -->
 				Class of: 2017<br>
 				School: College of Arts and Sciences<br>
 				Major: Latin<br>
@@ -92,8 +92,8 @@
 				<div class="mask">
 				<h2>Joyce Wang</h2>
 				<p><em>Inreach Chair</em><br>
-				Birthday: June 5, 1995<br>
-				Hometown: Holmdel, NJ <br>
+<!-- 				Birthday: June 5, 1995<br>
+				Hometown: Holmdel, NJ <br> -->
 				Class of: 2017 <br>
 				School: College of Agriculture and Life Sciences <br>
 				Major: Applied Economics and Management <br>
@@ -110,8 +110,8 @@
 				<div class="mask">
 				<h2>Faith Wang</h2>
 				<p><em>Rehearsal Director</em><br>
-				Birthday: February 15, 1996 <br>
-				Hometown: Forest Hill, MD<br>
+<!-- 				Birthday: February 15, 1996 <br>
+				Hometown: Forest Hill, MD<br> -->
 				Class of: 2017<br>
 				School: College of Agriculture and Life Sciences <br>
 				Major: Design and Environmental Analysis<br>
@@ -128,8 +128,8 @@
 				<div class="mask">
 				<h2>Frank Lin</h2>
 				<p><em>Musical Director</em> <br>
-				Birthday: September 28, 1995<br>
-				Hometown: Poughkeepsie, NY<br>
+<!-- 				Birthday: September 28, 1995<br>
+				Hometown: Poughkeepsie, NY<br> -->
 				Class of: 2017<br>
 				School: College of Arts and Sciences<br>
 				Major: Undecided<br>
@@ -146,8 +146,8 @@
 				<div class="mask">
 				<h2>Kathy Lin</h2>
 				<p><em>Member</em><br>
-				Birthday: April 10, 1996<br>
-				Hometown: Pleasanton, CA<br>
+<!-- 				Birthday: April 10, 1996<br>
+				Hometown: Pleasanton, CA<br> -->
 				Class of: 2018<br>
 				School: College of Human Ecology<br>
 				Major: Policy Analysis and Management<br>
@@ -164,8 +164,8 @@
 				<div class="mask">
 				<h2>Emmanuel Zheng</h2>
 				<p><em>Member</em><br>
-				Birthday: January 6, 1996<br>
-				Hometown: Potsdam, NY<br>
+<!-- 				Birthday: January 6, 1996<br>
+				Hometown: Potsdam, NY<br> -->
 				Class of: 2018<br>
 				School: College of Arts and Sciences<br>
 				Major: Economics<br>
@@ -182,8 +182,8 @@
 				<div class="mask">
 				<h2>Ray Wu</h2>
 				<p><em>Civilian</em><br>
-				Birthday: January 20, 1993<br>
-				Hometown: Great Neck, NY<br>
+<!-- 				Birthday: January 20, 1993<br>
+				Hometown: Great Neck, NY<br> -->
 				Class of: 2015<br>
 				School: College of Arts and Sciences<br>
 				Major: Biometry and Statistics<br>
@@ -200,8 +200,8 @@
 				<div class="mask">
 				<h2>Rebecca Lee</h2>
 				<p><em>Member</em><br>
-				Birthday: October 1, 2016<br>
-				Hometown: Columbia, MD<br>
+<!-- 				Birthday: October 1, 2016<br>
+				Hometown: Columbia, MD<br> -->
 				Class of: 2018<br>
 				School: College of Arts and Sciences<br>
 				Major: Psychology<br>
@@ -218,8 +218,8 @@
 				<div class="mask">
 				<h2>William Loo</h2>
 				<p><em>Member</em><br>
-				Birthday: June 19, 1995<br>
-				Hometown: Scarsdale, NY<br>
+<!-- 				Birthday: June 19, 1995<br>
+				Hometown: Scarsdale, NY<br> -->
 				Class of: 2017 <br>
 				School: College of Engineering<br>
 				Major: Operations Research & Information Engineering<br>
@@ -236,8 +236,8 @@
 				<div class="mask">
 				<h2>Zoe Chan</h2>
 				<p><em>Member</em><br>
-				Birthday: February 6, 1996<br>
-				Hometown: Long Island, NY<br>
+<!-- 				Birthday: February 6, 1996<br>
+				Hometown: Long Island, NY<br> -->
 				Class of: 2018 <br>
 				School: College of Engineering<br>
 				Major: Civil Engineering<br>
@@ -249,6 +249,7 @@
              	</div>
             </div>
 
+        	</section>
 	    </div>
 
 	 	<?php include "footer.php";?>     

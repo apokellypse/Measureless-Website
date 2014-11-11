@@ -35,7 +35,7 @@
         </div>
 
     	<div class="content" id="announcements">
-	        <h2>Announcements</h1>
+	        <h2>Announcements</h2>
             <p>Check back soon for upcoming events!</p>
 	    </div>
 	    

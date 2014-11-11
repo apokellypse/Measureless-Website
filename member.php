@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<?php include "meta.php";?>
+		<title>Members</title>
   	</head>
 
 

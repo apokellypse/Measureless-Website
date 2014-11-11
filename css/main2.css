@@ -23,12 +23,13 @@ nav {
     background-color: #f6f6f6;
     padding: 15px 0 15px 0;
     overflow:visible;
-    box-shadow:0 0 10px #999;
+    box-shadow: 0 0 10px #999;
 }
+
 nav ul {
     letter-spacing: 3px;
     font-size: 23px;
-    margin:0px;
+    margin: 0px;
 }
 
 nav li {
@@ -37,6 +38,7 @@ nav li {
     margin: 0 20px 0 20px
 
 }
+
 h1 {
      letter-spacing: 8px;
     font-family: Lora;
@@ -51,8 +53,9 @@ a {
 }
 
 a:hover {
-    color:#87bbe2;
+    color: #87bbe2;
 }
+
 nav img{
     margin: 0;
     padding: 0 60px 0 60px;
@@ -77,7 +80,7 @@ h3 {
 h2 {
     text-align: center;
     font-family: Gill;
-    color:#ff9028;
+    color: #ff9028;
     letter-spacing: 2px;
     font-size: 30px;
 }
@@ -93,6 +96,7 @@ h4 {
     text-shadow: 0 5px 5px #333;
     letter-spacing: 5px;
 }
+
 h4 em {
     color: red;
     font-style: normal;
@@ -116,13 +120,13 @@ body {
     height: 100%;
     background-color: #f6f6f6;
 }
+
 .content {    
     padding: 30px 20% 30px 20%;
     text-align: left;
     min-height: 100px;
     font-family: Lora;
     background-color: white;
-
 }
 
 #slideshow {
@@ -133,10 +137,10 @@ body {
     background: #f6f6f6;
     margin: 0;
 }
+
 #first{
     margin-top: 100px;
 }
-
 
 .content:nth-child(odd) {
     background-color: #D7E4ED;
@@ -151,21 +155,43 @@ body {
     background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 77%,rgba(0,0,0,0.07) 100%); /* W3C */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#12000000',GradientType=0 ); /* IE6-9 */
 }
-#memberinfo ul {list-style-type: none;
-                text-align: left;
-                line-height: 20px}
 
-#memberinfo li {border-bottom: 1px solid #000000;
-                padding-bottom: 15px;}
+#memberinfo ul {
+    list-style-type: none;
+    text-align: left;
+    line-height: 20px}
 
-img {width: 150px;
+#memberinfo li {
+    border-bottom: 1px solid #000000;
+    padding-bottom: 15px;
+}
+
+img {
+    width: 150px;
     height: 225px;
     float: right;
     margin: 15px;
     clear: right;
     border: 3px solid;
-    border-color: #000000}
+    border-color: #000000
+}
 
+iframe {
+    width: 70%;
+    height: 30vw;
+    margin: 0 15%;
+}
+
+hr {
+    padding: 20px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+}
+
+div.videos {
+    text-align: center;
+}
 
 /* 
  _____           _            

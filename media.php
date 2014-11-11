@@ -8,8 +8,8 @@
 	<body>
 
 		<?php include "nav2.php";?>    
-		<div class="content videos" id="first">
-
+		<div class="content" id="video">
+            <h2>Media</h2>
 			<!--Start content here-->
 
 			<!--YouTube links here-->

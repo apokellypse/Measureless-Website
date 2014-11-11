@@ -11,7 +11,7 @@
 
 	    
 	<div class="content" id="member" >
-	    <h2>Meet The Voices of Mesaureless</h2>
+	    <h2>Meet The Voices of Measureless</h2>
         
 
         <div class="view">

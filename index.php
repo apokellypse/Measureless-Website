@@ -30,7 +30,7 @@
                 <a href="img/themennoice.jpg" ></a>
             </div>	      
             <div id="banner"> 
-                <h4><em>Cornell's</em> Christian Acapella</h4>
+            <!--    <h4><em>Cornell's</em> Christian Acapella</h4> -->
             </div>    
         </div>
 
@@ -39,7 +39,7 @@
             
             <div class="date">
             Nov<br> 22
-            </div> <p> <em>3:00PM</em> Winter Concert - Anabel Taylor Hall Chapel
+            </div> <p> <em>3:00PM</em> <a href="https://www.facebook.com/events/1721306878094811/"> Winter Concert </a> &zwnj; &zwnj; - &zwnj; &zwnj; Anabel Taylor Hall Chapel
             
             </p>
             

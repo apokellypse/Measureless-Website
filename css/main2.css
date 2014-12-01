@@ -433,7 +433,34 @@ hr {
 | |__| (_) | | | | || (_| | (__| |_ 
  \____\___/|_| |_|\__\__,_|\___|\__|*/
 
-/* 
+
+
+h5 {
+    color: white;
+    font-size:20px;
+    margin: 0;
+}
+
+#contact {
+        background: #305a68 url("../img/contactbg.png") no-repeat center;
+}
+
+#contact p {
+
+}
+
+#contact ul {
+    list-style: none;
+}
+#contact ul li {
+    display: inline-block;
+    text-align: center;
+    margin-right:10px;
+}
+
+.contactdiv { text-align: center;}
+    
+    /*
  _____           _            
 |  ___|__   ___ | |_ ___ _ __ 
 | |_ / _ \ / _ \| __/ _ \ '__|

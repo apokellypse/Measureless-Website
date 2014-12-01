@@ -25,8 +25,8 @@
             <div class="contactdiv" id="contactofficer">
                 
 <ul>
-                <li>			<h5>President</h5> <p>Andrew Park </p><p>akp67@cornell.edu</p></li>
-<li>			<h5>Public Relations</h5> <p>Charlie Qian</p><p> cq38@cornell.edu</p></li>
+                <li>			<h5>President</h5> <p class="name">Andrew Park </p><p>akp67@cornell.edu</p></li>
+<li>			<h5>Public Relations</h5> <p class="name">Charlie Qian</p><p> cq38@cornell.edu</p></li>
                 </ul>
                 
             </div>
@@ -35,7 +35,6 @@
 
 
 <!-- Club Links (tumblr, g+, facebook, twitter, youtube…) -->
-			<p>Facebook: https://www.facebook.com/CornellMeasureless </p>
         </div>
 
 		<?php include "footer.php";?>            

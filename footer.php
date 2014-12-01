@@ -1,4 +1,10 @@
 <footer>
-    <p><a href="https://www.facebook.com/CornellMeasureless">Facebook</a> | Youtube</p>
-	<p>Site &copy; 1300 Group 2014</p>
+    
+    <ul>
+        <li>
+    <a href="https://www.facebook.com/CornellMeasureless"><img src="img/iconfb.png" ></a> </li>
+       <li> <img src="img/iconyt.png" ></li>
+
+	<li>Site &copy; 1300 Group 2014</li>
+            </ul>
 </footer>

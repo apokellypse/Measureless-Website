@@ -436,9 +436,10 @@ hr {
 
 
 h5 {
-    color: white;
-    font-size:20px;
-    margin: 0;
+    color: #e0e0e0;
+    font-size:23px;
+    margin: 0 0 20px 0;
+    font-family: Raleway, serif;
 }
 
 #contact {
@@ -446,19 +447,26 @@ h5 {
 }
 
 #contact p {
-
+    margin: 0;
 }
 
 #contact ul {
     list-style: none;
+    text-align: center;
 }
 #contact ul li {
     display: inline-block;
-    text-align: center;
+    text-align: left;
     margin-right:10px;
 }
 
-.contactdiv { text-align: center;}
+.contactdiv { 
+    text-align: center;
+    padding-bottom: 20px;
+}
+.name {
+    font-size: 12px;
+}
     
     /*
  _____           _            
@@ -480,4 +488,21 @@ footer {
 footer p {
     display: inline;
     margin: 0 10px 0 0;
+}
+
+footer img {
+    height: 40px;
+    width: 40px;
+    border: 0;
+    margin: 0 10px 0 0;
+}
+footer ul {
+    list-style: none;
+    margin: 0;
+
+}
+footer li {
+    display: inline-block;
+    margin: 0;
+    vertical-align:middle;
 }

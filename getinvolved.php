@@ -18,6 +18,7 @@
                 </ul>
 --> 
 
+            
             <div class="contactdiv" id="contactemail">
                 <h5>Club Email</h5> <p>cornell.measureless@gmail.com</p>
             </div>

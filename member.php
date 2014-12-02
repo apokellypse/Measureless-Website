@@ -76,7 +76,7 @@
 |_.__/ \___|\__, |_|_| |_|\___\___/|_| |_|\__\___|_| |_|\__|
             |___/   2
 -->
-        <div class="content">
+        <div class="content" id="member2">
 
 			<div class="view">
 				<img alt="DL" src="img/derekprofile.jpg"><br>
@@ -139,7 +139,7 @@
 |_.__/ \___|\__, |_|_| |_|\___\___/|_| |_|\__\___|_| |_|\__|
             |___/   3
 -->
-        <div class="content">
+        <div class="content" id="content3">
 			<div class="view">
 				<img alt="FL" src="img/frankprofile.jpg"><br>
 				<div class="mask">
@@ -201,7 +201,7 @@
 |_.__/ \___|\__, |_|_| |_|\___\___/|_| |_|\__\___|_| |_|\__|
             |___/   4
 -->
-        <div class="content">
+        <div class="content" id="member4">
 			<div class="view">
 				<img alt="RW" src="img/rayprofile.jpg"><br>
 				<div class="mask">

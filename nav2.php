@@ -6,7 +6,7 @@
     	<li><a href="media.php">media</a></li>
    		<li><a href="getinvolved.php">get involved</a></li>
     </ul>
-	<a href="index.php"><h1>MEASURELESS</h1>
-        <p>Cornell's Christian Acapella</p></a>
+	<a href="index.php" id="home"><h1>MEASURELESS</h1></a>
+        <p>Cornell's Christian Acapella</p>
 
 </nav>

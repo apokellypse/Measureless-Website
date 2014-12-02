@@ -20,7 +20,8 @@
 
             
             <div class="contactdiv" id="contactemail">
-                <h5>Club Email</h5> <p>cornell.measureless@gmail.com</p>
+                <p>Want to join Measureless?</p><p> Email here for an application form:</p>
+                <p id="email">cornell.measureless@gmail.com</p>
             </div>
 
             <div class="contactdiv" id="contactofficer">

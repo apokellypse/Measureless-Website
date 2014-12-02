@@ -21,6 +21,9 @@
             <div id="links">
                 <a href="img/thewomennoice.jpg"></a>
                 <a href="img/themennoice.jpg" ></a>
+                <a href="img/slide3.jpg"></a>
+                <a href="img/slide4.jpg"></a>
+                <a href="img/slide5.jpg"></a>
             </div>	      
             <div id="banner"> 
             <!--    <h4><em>Cornell's</em> Christian Acapella</h4> -->

@@ -194,6 +194,7 @@ img {width: 150px;
 
 #mission {
     background: #305a68 url("../img/contentbg1.png") no-repeat bottom left;
+    background-position: 0;
     padding-right: 15%;
         margin-top: 180px;
 }

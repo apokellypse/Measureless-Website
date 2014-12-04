@@ -45,6 +45,10 @@ a {
     color: #305a68;
 }
 
+#note:hover {
+    background-image: ('../note_hover.png');
+}
+
 a:hover {
     color:#87bbe2;
 }

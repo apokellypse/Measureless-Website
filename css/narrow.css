@@ -162,7 +162,58 @@ iframe {
     font-size: 10px;
     margin-right: 5%;
 }
+/*  __  __                _                   
+|  \/  | ___ _ __ ___ | |__   ___ _ __ ___ 
+| |\/| |/ _ \ '_ ` _ \| '_ \ / _ \ '__/ __|
+| |  | |  __/ | | | | | |_) |  __/ |  \__ \
+|_|  |_|\___|_| |_| |_|_.__/ \___|_|  |___/*/
 
+
+#member {
+    margin-top: 50px;
+}
+#member, #member2, #member3, #member4 {
+    padding: 5%;
+    text-align: center;
+}
+.view {
+    border: 0;
+    float: none;
+    display: inline-block;
+}
+
+#contact {
+    overflow:visible;
+    margin: 50px 0 0 0;
+    padding: 5%;
+}
+h1 {
+    font-size: 20px;
+    margin-top: 10%;
+}
+h5 {
+    margin: 0 02% 0;
+}
+
+#contact ul li {
+    display: block;
+    text-align: left
+    margin: 0 0 5% 0;
+}
+
+#contact ul {
+    padding-left: 20%;
+}
+
+section {
+    font-size: 12px;
+}
+.tweakcell {
+    padding: 0;
+}
+section input[type="submit"] {
+    margin-right: 20%;
+}
 
     /*
  _____           _            

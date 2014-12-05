@@ -525,6 +525,35 @@ h5 {
 }
 #email {    color:#e0e0e0;
 }
+
+section {
+    text-align: center;
+}
+
+section table {
+    margin: 0 auto;
+}
+
+section td {
+    padding-bottom: 5px;
+}
+
+.tweakcell {
+    padding-left: 35px;
+}
+
+.incomplete, .upload_fail {
+    margin: 5px;
+    color: #FFA44F;
+}
+
+section input[type="submit"] {
+    width: 100px;
+}
+
+#download > a {
+    color: #9BE6FF;
+}
     
     /*
  _____           _            

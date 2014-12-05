@@ -48,8 +48,8 @@ a {
 }
 
 nav img:hover {
-    display: none;
-    background-image: ("../img/note_hover.png");
+/*    display: none;
+    background-image: ("../img/note_hover.png");*/
 }
 
 a:hover {

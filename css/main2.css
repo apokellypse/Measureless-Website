@@ -496,9 +496,10 @@ h5 {
 }
 
 #contact {
-        background: #305a68 url("../img/contactbg.png") no-repeat center;
+    background: #305a68 url("../img/contactbg.png") no-repeat center;
+    background-size: 100% auto;
     color: white;
-        padding: 30px 20% 30px 20%;
+    padding: 30px 20% 30px 20%;
     margin-top: 100px;
 }
 

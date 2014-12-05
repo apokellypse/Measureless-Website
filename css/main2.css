@@ -47,14 +47,6 @@ a {
     color: #305a68;
 }
 
-<<<<<<< HEAD
-=======
-nav img:hover {
-/*    display: none;
-    background-image: ("../img/note_hover.png");*/
-}
-
->>>>>>> origin/master
 a:hover {
     color:#87bbe2;
 }
@@ -201,7 +193,7 @@ img {width: 150px;
     background: #305a68 url("../img/contentbg1.png") no-repeat bottom left;
     background-position: 0;
     padding-right: 15%;
-        margin-top: 180px;
+        margin-top: 100px;
 }
 #mission h2 {
     text-align: right;

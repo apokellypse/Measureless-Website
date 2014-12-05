@@ -15,6 +15,7 @@
 <link href="http://fonts.googleapis.com/css?family=Raleway:400,300" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="img/favicon.ico?v=1">
 <link rel="stylesheet" href="css/main2.css">
+<link rel='stylesheet' media='screen and (max-width: 300px)' href='css/narrow.css' />    
 <link rel="stylesheet" href="css/blueimp-gallery.min.css">
 
 <!--Scripts-->

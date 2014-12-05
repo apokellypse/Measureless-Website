@@ -1,0 +1,237 @@
+/*
+ _   _             _             _   _             
+| \ | | __ ___   _(_) __ _  __ _| |_(_) ___  _ __  
+|  \| |/ _` \ \ / / |/ _` |/ _` | __| |/ _ \| '_ \ 
+| |\  | (_| |\ V /| | (_| | (_| | |_| | (_) | | | |
+|_| \_|\__,_| \_/ |_|\__, |\__,_|\__|_|\___/|_| |_|
+                     |___/                         
+*/
+
+
+nav {
+    height: 50px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+nav ul {
+    font-size: 15px;
+    padding: 2% 0 0 0; 
+    font-weight: 400;
+}
+
+nav li {
+    margin: 0 3px 0 0;
+}
+
+#noteli {
+    display: none;
+}
+.gonzo {
+    display: none;
+}
+#home {
+    font-size: 12px;
+    margin 0;
+    letter-spacing: 4px;
+}
+
+/*
+  ____            _             _   
+ / ___|___  _ __ | |_ ___ _ __ | |_ 
+| |   / _ \| '_ \| __/ _ \ '_ \| __|
+| |__| (_) | | | | ||  __/ | | | |_ 
+ \____\___/|_| |_|\__\___|_| |_|\__|
+*/
+
+body {
+    width: 100%;
+    overflow:hidden;
+    margin: 0;
+    padding: 0;
+}
+.content {
+    font-size: 15px;
+}
+
+h2 {
+    font-size: 25px;
+    letter-spacing: 0;
+}
+
+
+#slideshow {
+   margin-top: 35px;
+}
+#announcements {
+    padding: 5%;
+}
+.date {
+    width: 50px;
+    height: 40px;
+    font-size: 20px;
+    line-height: 17px;
+    padding-top: 7px;
+}
+
+#announcements p {
+    margin-left: 70px;
+    padding-top: 10px;
+}
+
+/*         _                 _   
+     /\   | |               | |  
+    /  \  | |__   ___  _   _| |_ 
+   / /\ \ | '_ \ / _ \| | | | __|
+  / ____ \| |_) | (_) | |_| | |_ 
+ /_/    \_\_.__/ \___/ \__,_|\__|
+*/ 
+#mission {
+    margin-top: 50px;
+    padding:  5%;
+}
+#mission p {
+    padding: 0 10px 0 10px;
+    text-align: center;
+}
+#mission h2 {
+    text-align: center;
+}
+#history {
+    padding: 5%;    
+}
+#history h2 {
+    text-align: center;}
+
+#history p {
+    padding: 0 10px 0 10px;
+    text-align: center;
+}
+#why {
+    padding: 5%;
+    text-align: center;
+}
+#why h2 {
+    text-align: center;
+}
+#why p {
+    padding: 0 10px 0 10px;
+        text-align: center;
+}
+
+/*__  __          _ _       
+ |  \/  |        | (_)      
+ | \  / | ___  __| |_  __ _ 
+ | |\/| |/ _ \/ _` | |/ _` |
+ | |  | |  __/ (_| | | (_| |
+ |_|  |_|\___|\__,_|_|\__,_|
+*/  
+
+#video {
+    margin-top: 50px;
+    padding:  5%;
+    text-align: center;
+    font-size: 13px;
+}
+#video2 {
+    margin-top: 50px;
+    padding:  5%;
+    text-align: center;
+    font-size: 13px;
+}
+    
+iframe {
+    width: 90%;
+    height: 45vw;
+    margin: 0;
+    padding: 0;
+}
+.vidinfo {
+    width: 90%;
+    margin: 5%;
+    padding: 0;
+}
+
+.vidinfo h5 {
+    font-size: 17px;
+    padding: 2% 0 2% 0;
+}
+.vidinfo p:nth-of-type(3) {
+    font-size: 10px;
+    margin-right: 5%;
+}
+/*  __  __                _                   
+|  \/  | ___ _ __ ___ | |__   ___ _ __ ___ 
+| |\/| |/ _ \ '_ ` _ \| '_ \ / _ \ '__/ __|
+| |  | |  __/ | | | | | |_) |  __/ |  \__ \
+|_|  |_|\___|_| |_| |_|_.__/ \___|_|  |___/*/
+
+
+#member {
+    margin-top: 50px;
+}
+#member, #member2, #member3, #member4 {
+    padding: 5%;
+    text-align: center;
+}
+.view {
+    border: 0;
+    float: none;
+    display: inline-block;
+}
+
+#contact {
+    overflow:visible;
+    margin: 50px 0 0 0;
+    padding: 5%;
+}
+h1 {
+    font-size: 20px;
+    margin-top: 10%;
+}
+h5 {
+    margin: 0 02% 0;
+}
+
+#contact ul li {
+    display: block;
+    text-align: left
+    margin: 0 0 5% 0;
+}
+
+#contact ul {
+    padding-left: 20%;
+}
+
+section {
+    font-size: 12px;
+}
+.tweakcell {
+    padding: 0;
+}
+section input[type="submit"] {
+    margin-right: 20%;
+}
+
+    /*
+ _____           _            
+|  ___|__   ___ | |_ ___ _ __ 
+| |_ / _ \ / _ \| __/ _ \ '__|
+|  _| (_) | (_) | ||  __/ |   
+|_|  \___/ \___/ \__\___|_|   
+                              
+*/
+
+footer {
+    padding: 5% 0 5% 0;
+}
+footer ul {
+    padding: 0;
+}
+#foottext {
+    display: block;
+    margin-top: 5px;
+}
+

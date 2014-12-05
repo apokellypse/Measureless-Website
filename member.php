@@ -139,7 +139,7 @@
 |_.__/ \___|\__, |_|_| |_|\___\___/|_| |_|\__\___|_| |_|\__|
             |___/   3
 -->
-        <div class="content" id="content3">
+        <div class="content" id="member3">
 			<div class="view">
 				<img alt="FL" src="img/frankprofile.jpg"><br>
 				<div class="mask">

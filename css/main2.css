@@ -47,11 +47,6 @@ a {
     color: #305a68;
 }
 
-nav img:hover {
-/*    display: none;
-    background-image: ("../img/note_hover.png");*/
-}
-
 a:hover {
     color:#87bbe2;
 }
@@ -86,8 +81,10 @@ h2 {
     color:#ff9028;
     letter-spacing: 2px;
     font-size: 30px;
-    
-    
+}
+
+h1 {
+    font-family: Lora, serif;
 }
 
 h4 {
@@ -198,7 +195,7 @@ img {width: 150px;
     background: #305a68 url("../img/contentbg1.png") no-repeat bottom left;
     background-position: 0;
     padding-right: 15%;
-        margin-top: 180px;
+        margin-top: 100px;
 }
 #mission h2 {
     text-align: right;

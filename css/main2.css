@@ -32,12 +32,14 @@ nav li {
     margin: 0 30px 0 30px
 
 }
-h1 {
-     letter-spacing: 8px;
+#home {
+    letter-spacing: 8px;
     font-family: Lora, serif;
     font-size: 20px;
     margin: 5px 0 0 0;
     color: #555;
+    display: inline-block;
+    width: 225px;
 }
 
 a {
@@ -45,18 +47,14 @@ a {
     color: #305a68;
 }
 
-#note:hover {
-    background-image: ('../note_hover.png');
+nav img:hover {
+    display: none;
+    background-image: ("../img/note_hover.png");
 }
 
 a:hover {
     color:#87bbe2;
 }
-
-nav h1:hover {
-    color:#87bbe2;
-}
-    
 nav img{
     margin: 0;
     padding: 0 60px 0 60px;

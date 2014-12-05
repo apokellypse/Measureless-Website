@@ -47,11 +47,6 @@ a {
     color: #305a68;
 }
 
-nav img:hover {
-    display: none;
-    background-image: ("../img/note_hover.png");
-}
-
 a:hover {
     color:#87bbe2;
 }

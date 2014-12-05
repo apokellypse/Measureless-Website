@@ -47,6 +47,14 @@ a {
     color: #305a68;
 }
 
+<<<<<<< HEAD
+=======
+nav img:hover {
+/*    display: none;
+    background-image: ("../img/note_hover.png");*/
+}
+
+>>>>>>> origin/master
 a:hover {
     color:#87bbe2;
 }
@@ -519,6 +527,35 @@ h5 {
     font-size: 12px;
 }
 #email {    color:#e0e0e0;
+}
+
+section {
+    text-align: center;
+}
+
+section table {
+    margin: 0 auto;
+}
+
+section td {
+    padding-bottom: 5px;
+}
+
+.tweakcell {
+    padding-left: 35px;
+}
+
+.incomplete, .upload_fail {
+    margin: 5px;
+    color: #FFA44F;
+}
+
+section input[type="submit"] {
+    width: 100px;
+}
+
+#download > a {
+    color: #9BE6FF;
 }
     
     /*

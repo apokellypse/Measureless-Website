@@ -17,9 +17,8 @@ nav {
 }
 
 nav ul {
-    font-size: 1.5em;
+
     padding: 2% 0 0 0; 
-    font-weight: 400;
 }
 
 nav li {
@@ -33,7 +32,7 @@ nav li {
     display: none;
 }
 #home {
-    font-size: 12px;
+
     margin 0;
     letter-spacing: 4px;
 }
@@ -54,8 +53,7 @@ body {
 
 }
 .content {
-    font-size: 2em;
-    line-height: 1.5em;
+
 }
 
 h2 {
@@ -69,8 +67,7 @@ h2 {
 .date {
     width: 50px;
     height: 40px;
-    font-size: 20px;
-    line-height: 17px;
+
     padding-top: 7px;
 }
 
@@ -129,13 +126,13 @@ h2 {
 #video {
     padding:  5%;
     text-align: center;
-    font-size: 13px;
+
 }
 #video2 {
     margin-top: 50px;
     padding:  5%;
     text-align: center;
-    font-size: 13px;
+
 }
     
 iframe {

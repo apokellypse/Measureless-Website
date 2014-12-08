@@ -19,7 +19,7 @@
 <script>
     
   $(document).ready(function() {
-if ($( window ).width() <= 300 ) {
+
     var noteOffset = $("#note").offset();
     var noteTop = noteOffset.top;
     var noteLeft = noteOffset.left;
@@ -50,7 +50,7 @@ if ($( window ).width() <= 300 ) {
             clearInterval(hoverInterval);
         }
     );
-}
+
     // $("#note, #home").mouseenter(function(){
     //   $("#note").stop();
     //   $("#note").effect("bounce", {times: 2}, 400);

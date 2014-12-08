@@ -28,7 +28,8 @@ nav ul {
 nav li {
     list-style-type: none;
     display: inline-block;
-    margin: 0 30px 0 30px
+    margin: 0 30px 0 30px;
+    vertical-align: middle;
 
 }
 #home {

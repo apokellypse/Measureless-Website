@@ -12,23 +12,23 @@
 
         <div class="contactdiv" id="contactofficer">
         <h1>For General Questions</h1>
-        <ul>
-            <li><h5>President</h5>
-                <p class="name">Andrew Park</p>
-                <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu></a></p>
-            </li>
-            <li><h5>Public Relations</h5>
-                <p class="name">Charlie Qian</p>
-                <p><a href="mailto:cq38@cornell.edu">cq38@cornell.edu</a></p>
-            </li>
-        </ul>
+        <div>
+            <h5>President</h5>
+            <p class="name">Andrew Park</p>
+            <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu</a></p>
+        </div>
+        <div>
+            <h5>Public Relations</h5>
+            <p class="name">Charlie Qian</p>
+            <p><a href="mailto:cq38@cornell.edu">cq38@cornell.edu</a></p>
+        </div>
         
 
         <div class="contactdiv" id="contactemail">
             <h1>Want to join Measureless?</h1>
             <p id="download"><a href="downloads/application.doc" download>
                 Download an application form!</a> </p>
-            <p>For questions about auditions:</p>
+            <p><br>For questions about auditions:</p>
             <p id="email"><a href="mailto:cornell.measureless@gmail.com"> cornell.measureless@gmail.com </a></p>
         </div>
 

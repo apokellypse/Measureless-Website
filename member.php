@@ -18,7 +18,7 @@
         <div class="view">
             <img alt="AP" src="img/andrewprofile.jpg">
                 <div class="mask">
-                  <h2>Andrew Park</h2>
+                  <div class="mobileview"><h2>Andrew Park</h2></div></div>
                   <p><em>President</em><br>
 <!-- 					Birthday: November 19, 1992<br>
 					Hometown:Cerritos, CA<br> -->
@@ -28,7 +28,7 @@
 					<b>Part:</b> Tenor <br>
 					<b>Favorite Artist:</b> Boyz II Men <br>
 					<b>Favorite Verse:</b> 'Rejoice in the Lord always; again I will say, rejoice.' ~Philippians 4:4 <br>
-					<b>Motto:</b> 'Is mayonaise and instrument?'<br>
+					<b>Motto:</b> 'Is mayonnaise an instrument?'<br>
 				</p>
                 </div>
             </div>
@@ -36,7 +36,7 @@
         <div class="view">
             <img alt="BL" src="img/boprofile.jpg">
                 <div class="mask">
-                  <h2>Bo Long</h2>
+                  <div class="mobileview"><h2>Bo Long</h2></div>
                   <p><em>Member</em><br>
 <!-- 					Birthday: October 14, 1992 <br>
 					Hometown: Houston, TX <br> -->
@@ -54,7 +54,7 @@
 			<div class="view">
             <img alt="CQ" src="img/charlieprofile.jpg">
                 <div class="mask">
-				<h2>Charlie Qian</h2>
+				<div class="mobileview"><h2>Charlie Qian</h2></div>
 				<p><em>Public Relations Chair</em><br>
 <!-- 				Birthday: August 14, 1995<br>
 				Hometown: Montville, NJ<br> -->
@@ -81,7 +81,7 @@
 			<div class="view">
 				<img alt="DL" src="img/derekprofile.jpg"><br>
 				<div class="mask">
-				<h2>Derek Li</h2>
+				<div class="mobileview"><h2>Derek Li</h2></div>
 				<p><em>Member</em><br>
 <!-- 				Birthday: January 28th, 1995<br>
 				Hometown: Queens, NY<br> -->
@@ -99,7 +99,7 @@
 			<div class="view">
 				<img alt="JW" src="img/joyceprofile.jpg"><br>
 				<div class="mask">
-				<h2>Joyce Wang</h2>
+				<div class="mobileview"><h2>Joyce Wang</h2></div>
 				<p><em>Inreach Chair</em><br>
 <!-- 				Birthday: June 5, 1995<br>
 				Hometown: Holmdel, NJ <br> -->
@@ -117,7 +117,7 @@
 			<div class="view">
 				<img alt="FW" src="img/faithprofile.jpg"><br>
 				<div class="mask">
-				<h2>Faith Wang</h2>
+				<div class="mobileview"><h2>Faith Wang</h2></div>
 				<p><em>Rehearsal Director</em><br>
 <!-- 				Birthday: February 15, 1996 <br>
 				Hometown: Forest Hill, MD<br> -->
@@ -143,7 +143,7 @@
 			<div class="view">
 				<img alt="FL" src="img/frankprofile.jpg"><br>
 				<div class="mask">
-				<h2>Frank Lin</h2>
+				<div class="mobileview"><h2>Frank Lin</h2></div>
 				<p><em>Musical Director</em> <br>
 <!-- 				Birthday: September 28, 1995<br>
 				Hometown: Poughkeepsie, NY<br> -->
@@ -161,7 +161,7 @@
 			<div class="view">
 				<img alt="KL" src="img/kathyprofile.jpg"><br>
 				<div class="mask">
-				<h2>Kathy Lin</h2>
+				<div class="mobileview"><h2>Kathy Lin</h2></div>
 				<p><em>Member</em><br>
 <!-- 				Birthday: April 10, 1996<br>
 				Hometown: Pleasanton, CA<br> -->
@@ -179,7 +179,7 @@
 			<div class="view">
 				<img alt="EZ" src="img/mannyprofile.jpg"><br>
 				<div class="mask">
-				<h2>Emmanuel Zheng</h2>
+				<div class="mobileview"><h2>Emmanuel Zheng</h2></div>
 				<p><em>Member</em><br>
 <!-- 				Birthday: January 6, 1996<br>
 				Hometown: Potsdam, NY<br> -->
@@ -205,7 +205,7 @@
 			<div class="view">
 				<img alt="RW" src="img/rayprofile.jpg"><br>
 				<div class="mask">
-				<h2>Ray Wu</h2>
+				<div class="mobileview"><h2>Ray Wu</h2></div>
 				<p><em>Civilian</em><br>
 <!-- 				Birthday: January 20, 1993<br>
 				Hometown: Great Neck, NY<br> -->
@@ -223,7 +223,7 @@
 			<div class="view">
 				<img alt="RL" src="img/rebeccaprofile.jpg"><br>
 				<div class="mask">
-				<h2>Rebecca Lee</h2>
+				<div class="mobileview"><h2>Rebecca Lee</h2></div>
 				<p><em>Member</em><br>
 <!-- 				Birthday: October 1, 2016<br>
 				Hometown: Columbia, MD<br> -->
@@ -241,7 +241,7 @@
 			<div class="view">
 				<img alt="WL" src="img/willprofile.jpg"><br>
 				<div class="mask">
-				<h2>William Loo</h2>
+				<div class="mobileview"><h2>William Loo</h2></div>
 				<p><em>Member</em><br>
 <!-- 				Birthday: June 19, 1995<br>
 				Hometown: Scarsdale, NY<br> -->
@@ -259,7 +259,7 @@
 			<div class="view">
 				<img alt="ZC" src="img/zoeprofile.jpg"><br>
 				<div class="mask">
-				<h2>Zoe Chan</h2>
+				<div class="mobileview"><h2>Zoe Chan</h2></div>
 				<p><em>Member</em><br>
 <!-- 				Birthday: February 6, 1996<br>
 				Hometown: Long Island, NY<br> -->

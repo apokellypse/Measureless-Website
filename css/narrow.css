@@ -207,6 +207,9 @@ section {
 section input[type="submit"] {
     margin-right: 20%;
 }
+.mask:not(h2) {
+    display: none;
+}
 
     /*
  _____           _            

@@ -21,9 +21,9 @@
     
   $(document).ready(function() {
 
-    var noteOffset = $("#note").offset();
-    var noteTop = noteOffset.top;
-    var noteLeft = noteOffset.left;
+    // var noteOffset = $("#note").offset();
+    // var noteTop = noteOffset.top;
+    // var noteLeft = noteOffset.left;
 
   function bounceIt() {
     console.log("inside bounceIt");
@@ -39,9 +39,9 @@
             console.log("should stop animating");
             $("#note").stop(true, false);
 
-            var noteOffsetNew = $("#note").offset();
-            var noteTopNew = noteOffsetNew.top;
-            var noteLeftNew = noteOffsetNew.left;
+            // var noteOffsetNew = $("#note").offset();
+            // var noteTopNew = noteOffsetNew.top;
+            // var noteLeftNew = noteOffsetNew.left;
 
             // $("#note").animate({
             //         'top': noteTop - noteTopNew,

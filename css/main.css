@@ -39,7 +39,6 @@ nav li {
     font-family: Lora, serif;
     font-size: 1.1em;
     margin: 5px 0 0 0;
-    color: #555;
     display: inline-block;
     /*width: 250px;*/
 }
@@ -116,13 +115,15 @@ h4 em {
     right: 0;
 }
 
-#subtitle, #home {
+#home {
     font-family: Lora, sans-serif;
-    color: #000;
+    color: #2e2d2d;
 }
 
 #subtitle > a:hover, #subtitle > a {
-    color: #000;
+    color: #5a5858;
+    font-size: 0.9em;
+    font-family: Lora, sans-serif;
 }
 
 /*
@@ -188,14 +189,6 @@ body {
 #memberinfo li {border-bottom: 1px solid #000000;
                 padding-bottom: 15px;}
 
-img {width: 150px;
-    height: 225px;
-    float: right;
-    margin: 15px;
-    clear: right;
-    border: 3px solid;
-    border-color: #000000
-}
 /*         _                 _   
      /\   | |               | |  
     /  \  | |__   ___  _   _| |_ 

@@ -142,10 +142,7 @@ body {
     background: #f6f6f6;
     margin: 0;
 }
-.content:nth-of-type(odd) {
-    background-color: #305a68;
-    color: white;
-}
+
 <!-- #305a68 -->
 .content:nth-of-type(even) {
     background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 77%, rgba(0,0,0,0.07) 100%); /* FF3.6+ */

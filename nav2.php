@@ -3,8 +3,8 @@
 	    <li> <a href="about.php"> about</a></li>
         <li><a href="member.php"> members</a></li>
 	    <li id="noteli">
-            <div class="centernote"><img src="img/note.png" alt="note" id="note"></div>
-            <div class="gonzo" id="home"><a href="index.php" id="home">Measureless</a></div>
+            <div class="centernote"><img src="img/note.png" alt="note" id="note" class="gonzo"></div>
+        <a href="index.php" id="home">Measureless</a>
             <div class="gonzo"><a href="index.php">Cornell's Christian A Capella</a></div>
         </li>
 
@@ -17,8 +17,9 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
 
 <script>
+    
   $(document).ready(function() {
-
+if ($( window ).width() <= 300 ) {
     var noteOffset = $("#note").offset();
     var noteTop = noteOffset.top;
     var noteLeft = noteOffset.left;
@@ -49,7 +50,7 @@
             clearInterval(hoverInterval);
         }
     );
-
+}
     // $("#note, #home").mouseenter(function(){
     //   $("#note").stop();
     //   $("#note").effect("bounce", {times: 2}, 400);
@@ -58,6 +59,7 @@
     //   $("#note").stop();
     // });
   });
+  
 </script>
 
 </nav>

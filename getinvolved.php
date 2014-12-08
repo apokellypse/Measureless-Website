@@ -146,12 +146,12 @@
         <form action="getinvolved.php" method="post" enctype="multipart/form-data">
             <table>
                 <tr>
-                    <td class="tweakcell"><label for="text">First Name:</label></td>
+                    <td class="tweakcell"><label>First Name:</label></td>
                     <td><input required type="text" name="first" value="<?=$firstName;?>" 
                         maxlength="7" placeholder="type here"></td>
                 </tr>
                 <tr>
-                    <td class="tweakcell"><label for="text">Last Name:</label></td>
+                    <td class="tweakcell"><label>Last Name:</label></td>
                     <td><input required type="text" name="last" value="<?=$lastName;?>" 
                         maxlength="7" placeholder="type here"></td>
                 </tr>

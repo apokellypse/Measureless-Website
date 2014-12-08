@@ -173,6 +173,30 @@ iframe {
     border: 0;
     float: none;
     display: inline-block;
+    clear: both;
+    position: relative;
+    overflow: hidden;
+}
+
+.mask p {
+    display: none;
+}
+.mask .mobileview {
+    position:relative;
+    top: 30px;
+    z-index: 9999;
+    width: 100px;
+    clear: both;
+    overflow:visible;
+    font-size: 0.5em;
+    opacity: 100%;
+}
+
+
+.view .mask {
+    overflow: visible;
+    clear: both;
+    z-index: 1;
 }
 
 #contact {
@@ -207,9 +231,7 @@ section {
 section input[type="submit"] {
     margin-right: 20%;
 }
-.mask:not(h2) {
-    display: none;
-}
+
 
     /*
  _____           _            

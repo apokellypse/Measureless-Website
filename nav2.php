@@ -5,7 +5,7 @@
 	    <li id="noteli">
             <div class="centernote"><img src="img/note.png" alt="note" id="note"></div>
             <div class="gonzo" id="home"><a href="index.php" id="home">Measureless</a></div>
-            <div class="gonzo"><a href="index.php">Cornell's Christian A Capella</a></div>
+            <div class="gonzo" id="subtitle"><a href="index.php">Cornell's Christian A Capella</a></div>
         </li>
 
     	<li><a href="media.php">media</a></li>
@@ -41,10 +41,10 @@
             var noteTopNew = noteOffsetNew.top;
             var noteLeftNew = noteOffsetNew.left;
 
-            $("#note").animate({
-                    'top': noteTop - noteTopNew,
-                    'left' : noteLeft - noteLeftNew
-            }, 200)
+            // $("#note").animate({
+            //         'top': noteTop - noteTopNew,
+            //         'left' : noteLeft - noteLeftNew
+            // }, 200)
 
             clearInterval(hoverInterval);
         }

@@ -212,24 +212,25 @@
             |___/   4
 -->
         <div class="content" id="member4">
-			<div class="view">
+        	
+<!-- 			<div class="view">
 				<img alt="RW" src="img/rayprofile.jpg"><br>
 				<div class="mask">
 				<div class="mobileview"><h2>Ray Wu</h2></div>
 				<p><em>Civilian</em><br>
-<!-- 				Birthday: January 20, 1993<br>
-				Hometown: Great Neck, NY<br> -->
+				Birthday: January 20, 1993<br>
+				Hometown: Great Neck, NY<br>
 				<b>Class of:</b> 2015<br>
-				<!-- <b>School:</b> College of Arts and Sciences<br> -->
+				<b>School:</b> College of Arts and Sciences<br>
 				<b>Major:</b> Biometry and Statistics<br>
 				<b>Part:</b> Tenor <br>
-				<!-- <b>Favorite Artist:</b> Coldplay<br> -->
-				<!-- <b>Favorite Verse:</b>'Now He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness.' ~2 Corinthians 9:10<br> -->
+				<b>Favorite Artist:</b> Coldplay<br>
+				<b>Favorite Verse:</b>'Now He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness.' ~2 Corinthians 9:10<br>
 				<b>Favorite Verse:</b> 2&nbsp;Corinthians&nbsp;9:10 <br>
-				<!-- <b>Motto:</b> 'Don't think before you speak'<br> -->
+				<b>Motto:</b> 'Don't think before you speak'<br>
 			</p>
              	</div>
-            </div>
+            </div> -->
 
 			<div class="view">
 				<img alt="RL" src="img/rebeccaprofile.jpg"><br>

@@ -6,6 +6,7 @@
 |_| \_|\__,_| \_/ |_|\__, |\__,_|\__|_|\___/|_| |_|
                      |___/                         
 */
+.maingonzo { display: none; }
 
 nav {
     top: 0px;
@@ -81,7 +82,7 @@ h2 {
     font-family: Raleway, sans-serif;
     color:#ff9028;
     letter-spacing: 2px;
-    font-size: 3em;
+    font-size: 2.5em;
 }
 
 h1 {

@@ -1,10 +1,11 @@
 <nav>
 	<ul>
+        <li class="maingonzo"><a href="index.php">home</a></li>
 	    <li> <a href="about.php"> about</a></li>
         <li><a href="member.php"> members</a></li>
-	    <li id="noteli">
+	    <li id="noteli" class="gonzo">
             <div class="centernote"><img src="img/note.png" alt="note" id="note"></div>
-            <div class="gonzo" id="home"><a href="index.php" id="home">Measureless</a></div>
+          <a href="index.php" id="home">Measureless</a>
             <div class="gonzo" id="subtitle"><a href="index.php">Cornell's Christian A Capella</a></div>
         </li>
 

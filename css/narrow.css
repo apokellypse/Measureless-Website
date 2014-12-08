@@ -1,3 +1,7 @@
+body {
+    font-size: 150%;
+}
+
 /*
  _   _             _             _   _             
 | \ | | __ ___   _(_) __ _  __ _| |_(_) ___  _ __  
@@ -7,6 +11,7 @@
                      |___/                         
 */
 
+.maingonzo { display: block; }
 
 nav {
     height: 15%;
@@ -45,7 +50,7 @@ nav li {
 
 body {
     width: 100%;
-    overflow:hidden;
+
     margin: 0;
     padding: 0;
 
@@ -54,10 +59,6 @@ body {
 
 }
 
-h2 {
-
-    letter-spacing: 0;
-}
 
 #announcements {
     padding: 5%;
@@ -196,7 +197,6 @@ iframe {
 
 #contact {
     overflow:visible;
-    margin: 50px 0 0 0;
     padding: 5%;
 }
 h1 {
@@ -209,7 +209,7 @@ h5 {
 
 #contact ul li {
     display: block;
-    text-align: left
+    text-align: left;
     margin: 0 0 5% 0;
 }
 

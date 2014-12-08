@@ -3,7 +3,7 @@
         <li class="maingonzo"><a href="index.php">Measureless</a></li>
 	    <li> <a href="about.php"> about</a></li>
         <li><a href="member.php"> members</a></li>
-	    <li class="gonzo">
+	    <li class="gonzo" id="noteli">
             <div class="centernote"><img src="img/note.png" alt="note" id="note"></div>
           <a href="index.php" id="home">Measureless</a>
             <div id="subtitle"><a href="index.php">Cornell's Christian A Capella</a></div>

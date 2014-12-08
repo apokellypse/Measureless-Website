@@ -12,22 +12,22 @@
 
         <div class="contactdiv" id="contactofficer">
         <h1>For General Questions</h1>
-        <div>
-            <h5>President</h5>
-            <p class="name">Andrew Park</p>
-            <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu</a></p>
+        <div class="contactdiv"><h5>President</h5>
+                <p class="name">Andrew Park</p>
+                <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu</a></p>
         </div>
-        <div>
-            <h5>Public Relations</h5>
-            <p class="name">Charlie Qian</p>
-            <p><a href="mailto:cq38@cornell.edu">cq38@cornell.edu</a></p>
+        <div class="contactdiv">
+            <li><h5>Public Relations</h5>
+                <p class="name">Charlie Qian</p>
+                <p><a href="mailto:cq38@cornell.edu">cq38@cornell.edu</a></p>
+            </li>
         </div>
         
 
         <div class="contactdiv" id="contactemail">
             <h1>Want to join Measureless?</h1>
             <p id="download"><a href="downloads/application.doc" download>
-                Download an application form!</a> </p>
+                Click to Download an application form!</a> </p>
             <p><br>For questions about auditions:</p>
             <p id="email"><a href="mailto:cornell.measureless@gmail.com"> cornell.measureless@gmail.com </a></p>
         </div>
@@ -146,12 +146,12 @@
         <form action="getinvolved.php" method="post" enctype="multipart/form-data">
             <table>
                 <tr>
-                    <td class="tweakcell"><label>First Name:</label></td>
+                    <td class="tweakcell"><label for="text">First Name:</label></td>
                     <td><input required type="text" name="first" value="<?=$firstName;?>" 
                         maxlength="7" placeholder="type here"></td>
                 </tr>
                 <tr>
-                    <td class="tweakcell"><label>Last Name:</label></td>
+                    <td class="tweakcell"><label for="text">Last Name:</label></td>
                     <td><input required type="text" name="last" value="<?=$lastName;?>" 
                         maxlength="7" placeholder="type here"></td>
                 </tr>

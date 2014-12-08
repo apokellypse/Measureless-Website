@@ -149,10 +149,6 @@ body {
     overflow: auto;
 }
 
-.content p {
-    text-shadow: 0 0 5px white;
-}
-
 #slideshow {
     max-height: 500px;
     position: relative;
@@ -209,6 +205,7 @@ img {
     background: #305a68 url("../img/contentbg1.png") no-repeat bottom left;
     background-position: 0;
     padding-right: 15%;
+    padding-top: 50px;
 }
 #mission h2 {
     text-align: right;
@@ -261,7 +258,7 @@ img {
 }
 
 .datebox {
-    padding: 10px;
+    padding: 20px;
 }
 
 .date {
@@ -273,21 +270,22 @@ img {
     border-radius: 12px; 
     background-color: #305a68;
     color: white;
-    width: 80px;
-    height: 65px;
+    width: 90px;
+    height: 75px;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 10px;
+    padding-bottom: 5px;
     float: left;
     font-family: Raleway, sans-serif;
     font-size: 1.5em;
-    line-height: 25px;
+    line-height: 35px;
     border: 5px solid white;
     box-shadow: 0 0 4px #305a68;
 }
 
 #announcements p {
     margin-left: 125px;
-    padding-top: 30px;
+    padding-top: 20px;
     font-family: Raleway, sans-serif;
 }
 #announcements em {
@@ -331,7 +329,7 @@ img {
     width: 100%;
     height: 100%;
     position: absolute;
-    overflow: auto;
+    overflow: hidden;
     top: 0;
     left: 0;
     opacity: 0;
@@ -436,8 +434,12 @@ iframe {
 .content ul {
     list-style: none;
 }
-.content li{
+.content li {
     display: inline-block;
+}
+
+#mission p, #history p, #why p {
+    line-height: 1.5em;
 }
 
 hr {
@@ -460,7 +462,7 @@ hr {
     width: 60%;
     margin: 0 15% 60px 15%;
     background: #f2f2f2;
-    padding: 10px 5%;
+    padding: 20px 5%;
     color: black;
           /* Safari 3-4, iOS 1-3.2, Android 1.6- */
     -webkit-border-radius: 12px; 
@@ -472,7 +474,8 @@ hr {
 
 .vidinfo p:nth-of-type(3) {
     font-size: .9em;
-    text-align: right;
+    /*text-align: right;*/
+    text-align: left;
     margin: 0;
 }
 
@@ -519,17 +522,13 @@ h5 {
 .contactdiv { 
     text-align: center;
     padding-bottom: 20px;
-    text-shadow: none;
-}
-
-.contactdiv div {
-    display: inline-block;
 }
 
 .name {
     font-size: 1.2em;
 }
-#email {    color:#e0e0e0;
+#email {    
+    color:#e0e0e0;
 }
 
 section {
@@ -557,7 +556,7 @@ section input[type="submit"] {
     width: 100px;
 }
 
-#email > a, #download > a {
+#email > a, #download > a, .contactdiv a {
     color: #9BE6FF;
 }
     
@@ -580,7 +579,7 @@ footer {
 
 footer p {
     display: inline;
-    margin: 0 10px 0 0;
+    margin: 0 10px 0 0;@
 }
 
 footer img {
@@ -598,4 +597,107 @@ footer li {
     display: inline-block;
     margin: 0;
     vertical-align:middle;
+}
+
+/*
+                                      _           
+                                     (_)          
+  _ __ ___  ___ _ __   ___  _ __  ___ ___   _____ 
+ | '__/ _ \/ __| '_ \ / _ \| '_ \/ __| \ \ / / _ \
+ | | |  __/\__ \ |_) | (_) | | | \__ \ |\ V /  __/
+ |_|  \___||___/ .__/ \___/|_| |_|___/_| \_/ \___|
+               | |                                
+               |_|                                */
+
+@media (max-width: 1300px) {
+    .content {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    div.view {
+        display: block;
+        /*width: 50%;*/
+        height: 35vw;
+    }
+}
+
+@media (max-width: 1000px) {
+    .content {
+        padding-right: 3%;
+        padding-left: 3%;
+    }
+
+    #member div.view h2, 
+    #member div.view h2:hover {
+        bottom: 0px;
+    }
+
+    .extrabio {
+        display: none;
+    }
+
+    div.view {
+        width: 30%;
+        height: 20vw;
+    }
+
+    .view .mask {
+        position: relative;
+        top: 60%;
+        opacity: 1;
+        background-color: rgba(0,0,0,0);
+        border-radius: 0px;
+    }
+
+    .view img, .view:hover img {
+        margin: 0;
+        width: 100%;
+        top: -35px;
+    }
+
+    .view p, .view:hover p {
+        display: none;
+    }
+
+    .view h2, .view:hover h2 {
+        opacity: 1;
+        position: relative;
+        bottom: 20px;
+        /*top: 100px;*/
+        transform: translateY(0px);
+    }
+}
+
+@media (max-width: 825px) {
+    .content {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+
+    div.view {
+        width: 90%;
+        height: 40vw;
+    }
+
+    .view h2, .view:hover h2 {
+        bottom: -10px;
+    }
+
+    #member div.view h2, 
+    #member div.view h2:hover {
+        bottom: -30px;
+    }
+}
+
+@media (max-width: 600px) {
+    .content {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    div.view {
+        width: 90%;
+        height: 60vw;
+    }
 }

@@ -31,7 +31,7 @@
         </div>
 
     	<div class="content" id="announcements">
-	        <h2>Announcements</h2>
+	        <h2>Upcoming Events</h2>
             
             <div class="datebox">
                 <div class="date">Nov<br>22</div>
@@ -40,8 +40,20 @@
 
             <div class="datebox">
                 <div class="date">Dec<br>6</div>
-                <p><em>6:00PM</em><a target="_blank" href="https://www.facebook.com/events/745530378874210/"> CBS Felly Dinner Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; St Luke Lutheran Church Elca</p>
+                <p><em>6:00PM</em><a target="_blank" href="https://www.facebook.com/events/745530378874210/"> CBS Felly Dinner Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; St Luke Lutheran Church</p>
             </div>
+
+            <div class="datebox">
+                <div class="date">Apr<br>TBD</div>
+                <p><em>Time TBD</em> Possible Asia Night Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; Location TBD</p>
+            </div>
+
+            <div class="datebox">
+                <div class="date">May<br>TBD</div>
+                <p><em>Time TBD</em> 2015 Spring Concert </a> &zwnj; &zwnj; - &zwnj; &zwnj; Location TBD</p>
+            </div>
+
+
             
 	    </div>
 	    

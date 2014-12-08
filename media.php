@@ -19,19 +19,22 @@
 			<!--YouTube links here-->
 			<iframe src="//www.youtube.com/embed/ep5MQ6N32LE" allowfullscreen></iframe>
 			<div class="vidinfo">
-				<p><h5>"No One / Where is the Love"</h5> soloists Andrew Park, Faith Wang, and Charlene Tsai</p>
-				<p>2014 Asia Night at Cornell</p>
+				<h5>"No One / Where is the Love"</h5> 
+				<!-- <p>soloists Andrew Park, Faith Wang, and Charlene Tsai</p> -->
+				<p>2014 Spring Concert</p>
 			</div>
 
 			<iframe src="//www.youtube.com/embed/oamZ1-e1nLY" allowfullscreen></iframe>
 			<div class="vidinfo">
-                <p><h5>“Beautiful You”</h5> soloists Joyce Wang and William Loo</p>
-				<p>2014 Asia Night at Cornell</p>
+                <h5>“Beautiful You”</h5> 
+                <!-- <p>soloists Joyce Wang and William Loo</p> -->
+				<p>2014 Spring Concert</p>
 			</div>
 
 			<iframe src="//www.youtube.com/embed/xkQVtV5dMik" allowfullscreen></iframe>
 			<div class="vidinfo">
-                <p><h5>“Falling Slowly”</h5> performed by Frank and Faith</p>
+                <h5>“Falling Slowly”</h5> 
+                <!-- <p>performed by Frank and Faith</p> -->
 				<p>2014 Spring Concert</p>
 			</div>
             
@@ -43,19 +46,19 @@
 
 			<iframe src="//www.youtube.com/embed/r-MoAzhZjdY" allowfullscreen></iframe>
 			<div class="vidinfo">
-                <p><h5>“Killing Me Softly”</h5></p>
+                <h5>“Killing Me Softly”</h5>
 				<p>2012 Break It Down Boston</p>
 			</div>
 
 			<iframe src="//www.youtube.com/embed/skZjGGgyPNo" allowfullscreen></iframe>
 			<div class="vidinfo">
-                <p><h5>“Reborn/We Found Love”</h5></p>
+                <h5>“Reborn/We Found Love”</h5>
 				<p>2012 Break It Down Boston</p>
 			</div>
 
 			<iframe src="//www.youtube.com/embed/bnrHxje9gRU" allowfullscreen></iframe>
 			<div class="vidinfo">
-                <p><h5>“Beautiful You”</h5></p>
+                <h5>“Beautiful You”</h5>
 				<p>2011 Break It Down Boston</p>
 			</div>
     </li>

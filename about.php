@@ -19,7 +19,7 @@
         
         <div class="content" id="why">
 			<h2>Why "Measureless"?</h2>
-			<p>Our name comes from the hymn, "The Love of God," which was mostly written by a failed businessman named Frederick M. Lehman in 1917. We say "mostly" because the words of the third stanza came directly from a poem scribbled some 200 years earlier by a prisoner on his cell wall. After the hymn was written, it was discovered that the poem was originally written in Hebrew by a Jewish rabbi named Meir Ben Issac Nehoria around the year 1000.</p>
+			<p>Our name comes from the hymn, "The Love of God," which was mostly written by a failed businessman named Frederick M. Lehman in 1917. We say "mostly" because the words of the third stanza came directly from a poem scribbled some 200 years earlier by a prisoner on his cell wall. After the hymn was written, it was discovered that the poem was originally written in Hebrew by a Jewish rabbi named Meir Ben Issac Nehoria around the&nbsp;year&nbsp;1000.</p>
 			<p>This is the beauty that our a capella group celebrates - God's ability to simultaneously be inspiration, grace, hope, and love to a rabbi, a prisoner, a businessman, and a group of students, separated by centuries, oceans, and cultures. We truly believe with all of our being that our God's love is measureless, and it is this trait for which we are named.</p>
 		</div>
             

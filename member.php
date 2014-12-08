@@ -23,12 +23,13 @@
 <!-- 					Birthday: November 19, 1992<br>
 					Hometown:Cerritos, CA<br> -->
 					<b>Class of:</b> 2015 <br>
-					<b>School:</b> School of Industrial and Labor Relations",<br>
+					<!-- <b>School:</b> School of Industrial and Labor Relations",<br> -->
 					<b>Major:</b> ILR <br>
 					<b>Part:</b> Tenor <br>
-					<b>Favorite Artist:</b> Boyz II Men <br>
-					<b>Favorite Verse:</b> 'Rejoice in the Lord always; again I will say, rejoice.' ~Philippians 4:4 <br>
-					<b>Motto:</b> 'Is mayonnaise an instrument?'<br>
+					<!-- <b>Favorite Artist:</b> Boyz II Men <br> -->
+					<!-- <b>Favorite Verse:</b> 'Rejoice in the Lord always; again I will say, rejoice.' ~Philippians 4:4 <br> -->
+					<b>Favorite Verse:</b> Philippians&nbsp;4:4 <br>
+					<!-- <b>Motto:</b> 'Is mayonnaise an instrument?'<br> -->
 				</p>
                 </div>
             </div>
@@ -42,12 +43,13 @@
 <!-- 					Birthday: October 14, 1992 <br>
 					Hometown: Houston, TX <br> -->
 					<b>Class of:</b> 2015<br>
-					<b>School:</b> College of Engineering<br>
+					<!-- <b>School:</b> College of Engineering<br> -->
 					<b>Major:</b> Computer Science<br>
 					<b>Part:</b> Tenor <br>
-					<b>Favorite Artist:</b> Coldplay, Bastille<br>
-					<b>Favorite Verse:</b>'The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace' ~Numbers 6:24-26 <br>
-					<b>Motto:</b>'Never attribute to malice that which can be adequately explained by stupidity'<br>
+					<!-- <b>Favorite Artist:</b> Coldplay, Bastille<br> -->
+					<!-- <b>Favorite Verse:</b>'The Lord bless you and keep you; the Lord make his face shine on you and be gracious to you; the Lord turn his face toward you and give you peace' ~Numbers 6:24-26 <br> -->
+					<b>Favorite Verse:</b> Numbers&nbsp;6:24 <br>
+					<!-- <b>Motto:</b>'Never attribute to malice that which can be adequately explained by stupidity'<br> -->
 				</p>
                 </div>
             </div>	
@@ -60,12 +62,13 @@
 <!-- 				Birthday: August 14, 1995<br>
 				Hometown: Montville, NJ<br> -->
 				<b>Class of:</b> 2017<br>
-				<b>School:</b> College of Engineering<br>
+				<!-- <b>School:</b> College of Engineering<br> -->
 				<b>Major:</b> Computer Science<br>
 				<b>Part:</b> Bass<br>
-				Fav Artist: Tim Be Told<br>
-				<b>Favorite Verse:</b>'For I am convinced that neither death nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.' ~Romans 8:38-39<br>
-				<b>Motto:</b> 'Wut'
+				<!-- Fav Artist: Tim Be Told<br> -->
+				<!-- <b>Favorite Verse:</b>'For I am convinced that neither death nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.' ~Romans 8:38-39<br> -->
+				<b>Favorite Verse:</b> Romans&nbsp;8:38-39 <br>
+				<!-- <b>Motto:</b> 'Wut' -->
 			</p>
              	</div>
             </div>
@@ -87,12 +90,13 @@
 <!-- 				Birthday: January 28th, 1995<br>
 				Hometown: Queens, NY<br> -->
 				<b>Class of:</b> 2017<br>
-				<b>School:</b> College of Arts and Sciences<br>
+				<!-- <b>School:</b> College of Arts and Sciences<br> -->
 				<b>Major:</b> Latin<br>
 				<b>Part:</b> Tenor<br>
-				<b>Favorite Artist:</b> <br>
-				<b>Favorite Verse:</b>'For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.' ~2 Corinthians 12:10<br>
-				<b>Motto:</b> 'One day, you’ll wake up and realize that I was right' (he always spits hella wisdom)
+				<!-- <b>Favorite Artist:</b> <br> -->
+				<!-- <b>Favorite Verse:</b>'For the sake of Christ, then, I am content with weaknesses, insults, hardships, persecutions, and calamities. For when I am weak, then I am strong.' ~2 Corinthians 12:10<br> -->
+				<b>Favorite Verse:</b> 2&nbsp;Corinthians&nbsp;12:10 <br>
+				<!-- <b>Motto:</b> 'One day, you’ll wake up and realize that I was right' (he always spits hella wisdom) -->
 			</p>
              	</div>
             </div>
@@ -105,12 +109,13 @@
 <!-- 				Birthday: June 5, 1995<br>
 				Hometown: Holmdel, NJ <br> -->
 				<b>Class of:</b> 2017 <br>
-				<b>School:</b> College of Agriculture and Life Sciences <br>
+				<!-- <b>School:</b> College of Agriculture and Life Sciences <br> -->
 				<b>Major:</b> Applied Economics and Management <br>
 				<b>Part:</b> Alto <br>
-				<b>Favorite Artist:</b> David Crowder Band, Passion Pit, and OneRepublic<br>
-				<b>Favorite Verse:</b>'The LORD will fight for you; you only need to be still.' ~Exodus 14:14 <br>
-				<b>Motto:</b>'Live a life that needs God to explain it.'<br>
+				<!-- <b>Favorite Artist:</b> David Crowder Band, Passion Pit, and OneRepublic<br> -->
+				<!-- <b>Favorite Verse:</b>'The LORD will fight for you; you only need to be still.' ~Exodus 14:14 <br> -->
+				<b>Favorite Verse:</b> Exodus&nbsp;14:14 <br>
+				<!-- <b>Motto:</b>'Live a life that needs God to explain it.'<br> -->
 			</p>
              	</div>
             </div>
@@ -123,12 +128,13 @@
 <!-- 				Birthday: February 15, 1996 <br>
 				Hometown: Forest Hill, MD<br> -->
 				<b>Class of:</b> 2017<br>
-				<b>School:</b> College of Agriculture and Life Sciences <br>
+				<!-- <b>School:</b> College of Agriculture and Life Sciences <br> -->
 				<b>Major:</b> Design and Environmental Analysis<br>
 				<b>Part:</b> Soprano<br>
-				<b>Favorite Artist:</b> The Civil Wars<br>
-				<b>Favorite Verse:</b>'Be joyful in hope, patient in affliction, faithful in prayer.' ~Romans 12:12 <br>
-				<b>Motto:</b> 'Choose joy!'<br>
+				<!-- <b>Favorite Artist:</b> The Civil Wars<br> -->
+				<!-- <b>Favorite Verse:</b>'Be joyful in hope, patient in affliction, faithful in prayer.' ~Romans 12:12 <br> -->
+				<b>Favorite Verse:</b> Romans&nbsp;12:12 <br>
+				<!-- <b>Motto:</b> 'Choose joy!'<br> -->
 			</p>
              	</div>
             </div>
@@ -149,12 +155,13 @@
 <!-- 				Birthday: September 28, 1995<br>
 				Hometown: Poughkeepsie, NY<br> -->
 				<b>Class of:</b> 2017<br>
-				<b>School:</b> College of Arts and Sciences<br>
+				<!-- <b>School:</b> College of Arts and Sciences<br> -->
 				<b>Major:</b> Undecided<br>
 				<b>Part:</b> Bass<br>
-				<b>Favorite Artist:</b> The Spice Qurls<br>
-				<b>Favorite Verse:</b>'Jesus wept' ~John 11:35 <br>
-				<b>Motto:</b> 'do yau hom wok!!'
+				<!-- <b>Favorite Artist:</b> The Spice Qurls<br> -->
+				<!-- <b>Favorite Verse:</b>'Jesus wept' ~John 11:35 <br> -->
+				<b>Favorite Verse:</b> John&nbsp;11:35 <br>
+				<!-- <b>Motto:</b> 'do yau hom wok!!' -->
 			</p>
              	</div>
             </div>
@@ -167,12 +174,13 @@
 <!-- 				Birthday: April 10, 1996<br>
 				Hometown: Pleasanton, CA<br> -->
 				<b>Class of:</b> 2018<br>
-				<b>School:</b> College of Human Ecology<br>
+				<!-- <b>School:</b> College of Human Ecology<br> -->
 				<b>Major:</b> Policy Analysis and Management<br>
 				<b>Part:</b> Alto<br>
-				<b>Favorite Artist:</b> None, but listening to Jack Johnson always makes her happy<br>
-				<b>Favorite Verse:</b>'Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which suprasses all understanding, will guard your hearts and your minds in Christ Jesus.' ~Philippians 4:6-7<br>
-				<b>Motto:</b> Doesn't have one, but likes to cry instead <br>
+				<!-- <b>Favorite Artist:</b> None, but listening to Jack Johnson always makes her happy<br> -->
+				<!-- <b>Favorite Verse:</b>'Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which suprasses all understanding, will guard your hearts and your minds in Christ Jesus.' ~Philippians 4:6-7<br> -->
+				<b>Favorite Verse:</b> Philippians&nbsp;4:6-7 <br>
+				<!-- <b>Motto:</b> Doesn't have one, but likes to cry instead <br> -->
 			</p>
              	</div>
             </div>
@@ -185,12 +193,13 @@
 <!-- 				Birthday: January 6, 1996<br>
 				Hometown: Potsdam, NY<br> -->
 				<b>Class of:</b> 2018<br>
-				<b>School:</b> College of Arts and Sciences<br>
+				<!-- <b>School:</b> College of Arts and Sciences<br> -->
 				<b>Major:</b> Economics<br>
 				<b>Part:</b> Bass<br>
-				<b>Favorite Artist:</b>"Ed Sheeran <br>
-				<b>Favorite Verse:</b>'Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.' ~Matthew 11:29<br>
-				<b>Motto:</b>'Oooooh that's Boomaction!'<br>
+				<!-- <b>Favorite Artist:</b>"Ed Sheeran <br> -->
+				<!-- <b>Favorite Verse:</b>'Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.' ~Matthew 11:29<br> -->
+				<b>Favorite Verse:</b> Matthrew&nbsp;11:29 <br>
+				<!-- <b>Motto:</b>'Oooooh that's Boomaction!'<br> -->
 			</p>
              	</div>
             </div>
@@ -211,12 +220,13 @@
 <!-- 				Birthday: January 20, 1993<br>
 				Hometown: Great Neck, NY<br> -->
 				<b>Class of:</b> 2015<br>
-				<b>School:</b> College of Arts and Sciences<br>
+				<!-- <b>School:</b> College of Arts and Sciences<br> -->
 				<b>Major:</b> Biometry and Statistics<br>
-				<b>Part:</b> Tenor
-				<b>Favorite Artist:</b> Coldplay<br>
-				<b>Favorite Verse:</b>'Now He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness.' ~2 Corinthians 9:10<br>
-				<b>Motto:</b> 'Don't think before you speak'<br>
+				<b>Part:</b> Tenor <br>
+				<!-- <b>Favorite Artist:</b> Coldplay<br> -->
+				<!-- <b>Favorite Verse:</b>'Now He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness.' ~2 Corinthians 9:10<br> -->
+				<b>Favorite Verse:</b> 2&nbsp;Corinthians&nbsp;9:10 <br>
+				<!-- <b>Motto:</b> 'Don't think before you speak'<br> -->
 			</p>
              	</div>
             </div>
@@ -229,12 +239,13 @@
 <!-- 				Birthday: October 1, 2016<br>
 				Hometown: Columbia, MD<br> -->
 				<b>Class of:</b> 2018<br>
-				<b>School:</b> College of Arts and Sciences<br>
+				<!-- <b>School:</b> College of Arts and Sciences<br> -->
 				<b>Major:</b> Psychology<br>
 				<b>Part:</b> Alto<br>
-				<b>Favorite Artist:</b> GOD<br>
-				<b>Favorite Verse:</b>'Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.' ~Joshua 1:9<br>
-				<b>Motto:</b>'Even in literature and art, no man who bothers about originality will ever be original: whereas if you simply try to tell the truth (without caring twopence how often it has been told before) you will, nine times out of ten, become original without ever having noticed it.'<br>
+				<!-- <b>Favorite Artist:</b> GOD<br> -->
+				<!-- <b>Favorite Verse:</b>'Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.' ~Joshua 1:9<br> -->
+				<b>Favorite Verse:</b> Joshua&nbsp;1:9 <br>
+				<!-- <b>Motto:</b>'Even in literature and art, no man who bothers about originality will ever be original: whereas if you simply try to tell the truth (without caring twopence how often it has been told before) you will, nine times out of ten, become original without ever having noticed it.'<br> -->
 			</p>
              	</div>
             </div>
@@ -247,12 +258,13 @@
 <!-- 				Birthday: June 19, 1995<br>
 				Hometown: Scarsdale, NY<br> -->
 				<b>Class of:</b> 2017 <br>
-				<b>School:</b> College of Engineering<br>
-				<b>Major:</b> Operations Research & Information Engineering<br>
+				<!-- <b>School:</b> College of Engineering<br> -->
+				<b>Major:</b> Operations Research &amp; Information Engineering<br>
 				<b>Part:</b> Tenor<br>
-				<b>Favorite Artist:</b> Ed Sheeran<br>
-				<b>Favorite Verse:</b>'Who of you by worrying can add a single hour to his life? Therefore do not worry about tomorrow, for tomorow will worry about itself...Each day has enough trouble of its own.' ~Matthew 6:27,34<br>
-				<b>Motto:</b> 'What if soy milk is just milk introducing himself in Spanish?'<br>
+				<!-- <b>Favorite Artist:</b> Ed Sheeran<br> -->
+				<!-- <b>Favorite Verse:</b>'Who of you by worrying can add a single hour to his life? Therefore do not worry about tomorrow, for tomorow will worry about itself...Each day has enough trouble of its own.' ~Matthew 6:27,34<br> -->
+				<b>Favorite Verse:</b> Matthew&nbsp;6:27,&nbsp;34 <br>
+				<!-- <b>Motto:</b> 'What if soy milk is just milk introducing himself in Spanish?'<br> -->
 			</p>
              	</div>
             </div>
@@ -265,12 +277,13 @@
 <!-- 				Birthday: February 6, 1996<br>
 				Hometown: Long Island, NY<br> -->
 				<b>Class of:</b> 2018 <br>
-				<b>School:</b> College of Engineering<br>
+				<!-- <b>School:</b> College of Engineering<br> -->
 				<b>Major:</b> Civil Engineering<br>
 				<b>Part:</b> Soprano<br>
-				<b>Favorite Artist:</b> Bastille, Mindy Glendhill, Beyonce, and David Crowder <br>
-				<b>Favorite Verse:</b>'for God gave us a spirit not of fear but of power and love and self-control.' ~2 Timothy 1:7<br>
-				<b>Motto:</b>'Life is cray cray, but Jesus is the way way'<br>
+				<!-- <b>Favorite Artist:</b> Bastille, Mindy Glendhill, Beyonce, and David Crowder <br> -->
+				<!-- <b>Favorite Verse:</b>'for God gave us a spirit not of fear but of power and love and self-control.' ~2 Timothy 1:7<br> -->
+				<b>Favorite Verse:</b> 2&nbsp;Timothy&nbsp;1:7 <br>
+				<!-- <b>Motto:</b>'Life is cray cray, but Jesus is the way way'<br> -->
 			</p>
              	</div>
             </div>

@@ -34,7 +34,7 @@ nav li {
 #home {
     letter-spacing: 8px;
     font-family: Lora, serif;
-    font-size: 3.5em;
+    font-size: 1em;
     margin: 5px 0 0 0;
     color: #555;
     display: inline-block;
@@ -57,7 +57,7 @@ nav img{
     border: none;
 }
 nav p {
-    font-size: 2em;
+    font-size: 2.2em;
     margin: 0;
 }
 

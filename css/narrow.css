@@ -1,6 +1,12 @@
+@media screen and (min-device-width : 10em) 
+and (max-device-width : 30em) {
+
+
 body {
     font-size: 150%;
 }
+}
+
 
 /*
  _   _             _             _   _             

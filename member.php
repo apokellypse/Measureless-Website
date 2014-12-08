@@ -18,7 +18,7 @@
         <div class="view">
             <img alt="AP" src="img/andrewprofile.jpg">
                 <div class="mask">
-                  <div class="mobileview"><h2>Andrew Park</h2></div></div>
+                  <div class="mobileview"><h2>Andrew Park</h2></div>
                   <p><em>President</em><br>
 <!-- 					Birthday: November 19, 1992<br>
 					Hometown:Cerritos, CA<br> -->
@@ -32,6 +32,7 @@
 				</p>
                 </div>
             </div>
+
 
         <div class="view">
             <img alt="BL" src="img/boprofile.jpg">

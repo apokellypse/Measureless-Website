@@ -354,7 +354,7 @@ img {width: 150px;
     color: #f6f6f6;
     text-align: center;
     position: relative;
-    font-size: 1.7em;
+    font-size: 1em;
     padding: 10px;
     background: rgba(0, 0, 0, 0.8);
     margin: 20px 0 0 0;
@@ -365,13 +365,13 @@ img {width: 150px;
 
 .view em {
     color: #305a68;
-    font-size: 1.5em;
+    font-size: 1em;
     font-family: Raleway, serif;
 
 }
 .view p {
     font-family: Lora, serif;
-    font-size: 1.2em;
+    font-size: 1em;
     position: relative;
     color: black;
     padding: 10px 20px 20px;

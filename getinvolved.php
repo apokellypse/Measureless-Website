@@ -27,7 +27,7 @@
         <div class="contactdiv" id="contactemail">
             <h1>Want to join Measureless?</h1>
             <p id="download"><a href="downloads/application.doc" download>
-                Download an application form:</a> </p>
+                Download an application form!</a> </p>
             <p>For questions about auditions:</p>
             <p id="email"><a href="mailto:cornell.measureless@gmail.com"> cornell.measureless@gmail.com </a></p>
         </div>

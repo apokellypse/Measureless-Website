@@ -105,6 +105,14 @@ h4 em {
     text-shadow: 0 0 0;
 }
 
+.centernote {
+    width: 150px;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
 /*
   ____            _             _   
  / ___|___  _ __ | |_ ___ _ __ | |_ 

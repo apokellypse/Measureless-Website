@@ -17,8 +17,8 @@
 <link rel="stylesheet" href="css/main.css">
 <link rel='stylesheet' media='screen and (max-width: 300px)' href='css/narrow.css' />    
 <link rel='stylesheet' media='screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px)' href='css/narrow.css' />    
+and (min-device-width : 10em) 
+and (max-device-width : 30em)' href='css/narrow.css' />    
 <link rel="stylesheet" href="css/blueimp-gallery.min.css">
 
 <!--Scripts-->

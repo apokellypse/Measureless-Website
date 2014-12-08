@@ -53,10 +53,21 @@
             $varPlscomplete = 
             '<div class="incomplete">You need to enter in your first name.</div>';
         }
+        //Manu added this for 123 validation
+        if ((isset($firstName) && !preg_match("/^[a-zA-Z ]*$/",$firstName)) or empty($firstName))  {
+          $varPlscomplete = '<div class="incomplete">Enter a valid first name. </div>';
+        }
+
         if (empty($_POST['last'])) {
             $varPlscomplete = $varPlscomplete 
             . '<div class="incomplete">You need to enter in your last name.</div>';
         }
+
+        //Manu added this for 123 validation
+        if ((isset($lastName) && !preg_match("/^[a-zA-Z ]*$/",$lastName)) or empty($lastName))  {
+          $varPlscomplete = '<div class="incomplete">Enter a valid last name. </div>';
+        }
+
         $varFirst = $_POST['first'];
         $varLast = $_POST['last'];
 

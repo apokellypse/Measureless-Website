@@ -151,7 +151,7 @@ body {
 }
 
 .content p {
-<!--    text-shadow: 0 0 5px white; -->
+    text-shadow: 0 0 5px white;
 }
 
 #slideshow {
@@ -167,7 +167,6 @@ body {
     background-color: #305a68;
 }
 
-<!-- #305a68 -->
 .content:nth-of-type(even) {
     background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0) 77%, rgba(0,0,0,0.07) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(77%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.07))); /* Chrome,Safari4+ */
@@ -188,6 +187,7 @@ body {
 
 #memberinfo li {border-bottom: 1px solid #000000;
                 padding-bottom: 15px;}
+
 
 /*         _                 _   
      /\   | |               | |  
@@ -251,6 +251,10 @@ body {
 #announcements { 
     background-color: white; 
     padding: 30px 20% 30px 20%;
+}
+
+.datebox {
+    padding: 10px;
 }
 
 .date {
@@ -508,7 +512,13 @@ h5 {
 .contactdiv { 
     text-align: center;
     padding-bottom: 20px;
+    text-shadow: none;
 }
+
+.contactdiv div {
+    display: inline-block;
+}
+
 .name {
     font-size: 1.2em;
 }

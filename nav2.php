@@ -1,6 +1,6 @@
 <nav>
 	<ul>
-        <li class="maingonzo"><a href="index.php">home</a></li>
+        <li class="maingonzo"><a href="index.php">Measureless</a></li>
 	    <li> <a href="about.php"> about</a></li>
         <li><a href="member.php"> members</a></li>
 	    <li id="noteli" class="gonzo">

@@ -13,7 +13,7 @@ nav {
     width: 100%;
     z-index: 99999;
     text-align: center;
-    height: 80px;
+    height: 120px;
     background-color: #f6f6f6;
     padding: 15px 0 15px 0;
     overflow:visible;
@@ -21,8 +21,8 @@ nav {
 }
 nav ul {
     font-weight: 300;
-    font-size: 23px;
-    margin:0px;
+    font-size: 2.7em;
+    margin: 0px;
 }
 
 nav li {
@@ -34,11 +34,11 @@ nav li {
 #home {
     letter-spacing: 8px;
     font-family: Lora, serif;
-    font-size: 20px;
+    font-size: 3.5em;
     margin: 5px 0 0 0;
     color: #555;
     display: inline-block;
-    width: 225px;
+    /*width: 250px;*/
 }
 
 a {
@@ -57,7 +57,7 @@ nav img{
     border: none;
 }
 nav p {
-    font-size: 13px;
+    font-size: 2em;
     margin: 0;
 }
 
@@ -79,7 +79,7 @@ h2 {
     font-family: Raleway, sans-serif;
     color:#ff9028;
     letter-spacing: 2px;
-    font-size: 30px;
+    font-size: 3em;
 }
 
 h1 {
@@ -92,7 +92,7 @@ h4 {
     bottom: 0;
     left: 10%;
     font-family: Raleway, sans-serif;
-    font-size: 50px;
+    font-size: 5em;
     color: white;
     text-shadow: 0 5px 5px #333;
     letter-spacing: 5px;
@@ -100,7 +100,7 @@ h4 {
 h4 em {
     color: red;
     font-style: normal;
-    font-size: 30px;
+    font-size: 3em;
     letter-spacing: 0;
     text-shadow: 0 0 0;
 }
@@ -118,7 +118,7 @@ body {
     padding: 0px;
     width: 100%;
     background-color: #f6f6f6;
-    font-size: 62.5%;
+    font-size: .6em;
 }
 .content {    
     padding: 30px 20% 30px 20%;
@@ -255,7 +255,7 @@ img {width: 150px;
     padding-top: 15px;
     float: left;
     font-family: Raleway, sans-serif;
-    font-size: 30px;
+    font-size: 2em;
     line-height: 25px;
     border: 5px solid white;
     box-shadow: 0 0 4px #305a68;
@@ -355,7 +355,7 @@ img {width: 150px;
     color: #f6f6f6;
     text-align: center;
     position: relative;
-    font-size: 17px;
+    font-size: 1.7em;
     padding: 10px;
     background: rgba(0, 0, 0, 0.8);
     margin: 20px 0 0 0;
@@ -366,13 +366,13 @@ img {width: 150px;
 
 .view em {
     color: #305a68;
-    font-size: 15px;
+    font-size: 1.5em;
     font-family: Raleway, serif;
 
 }
 .view p {
     font-family: Lora, serif;
-    font-size: 12px;
+    font-size: 1.2em;
     position: relative;
     color: black;
     padding: 10px 20px 20px;
@@ -455,7 +455,7 @@ hr {
 }
 
 .vidinfo p:nth-of-type(3) {
-    font-size: 12px;
+    font-size: .9em;
     text-align: right;
     margin: 0;
 }
@@ -474,7 +474,7 @@ hr {
 
 h5 {
     color: #e0e0e0;
-    font-size:23px;
+    font-size: 1.5em;
     margin: 0 0 20px 0;
     font-family: Raleway, sans-serif;
 }
@@ -505,7 +505,7 @@ h5 {
     padding-bottom: 20px;
 }
 .name {
-    font-size: 12px;
+    font-size: 1.2em;
 }
 #email {    color:#e0e0e0;
 }
@@ -535,7 +535,7 @@ section input[type="submit"] {
     width: 100px;
 }
 
-#download > a {
+#email > a, #download > a {
     color: #9BE6FF;
 }
     
@@ -550,7 +550,7 @@ section input[type="submit"] {
 
 footer {
     text-align: center;
-    font-size: 12px;
+    font-size: 1.2em;
     font-family: Raleway, sans-serif;
     padding: 20px 0 20px 0;
     background-color: #f6f6f6;

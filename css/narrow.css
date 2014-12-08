@@ -25,14 +25,12 @@ nav li {
     margin: 0 3px 0 0;
 }
 
-#noteli {
-    display: none;
-}
+
 .gonzo {
     display: none;
 }
 #home {
-
+    display:block;
     margin 0;
     letter-spacing: 4px;
 }

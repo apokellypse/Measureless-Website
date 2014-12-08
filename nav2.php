@@ -17,8 +17,9 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
 
 <script>
+    
   $(document).ready(function() {
-
+if ($( window ).width() <= 300 ) {
     var noteOffset = $("#note").offset();
     var noteTop = noteOffset.top;
     var noteLeft = noteOffset.left;
@@ -49,7 +50,7 @@
             clearInterval(hoverInterval);
         }
     );
-
+}
     // $("#note, #home").mouseenter(function(){
     //   $("#note").stop();
     //   $("#note").effect("bounce", {times: 2}, 400);
@@ -58,6 +59,7 @@
     //   $("#note").stop();
     // });
   });
+  
 </script>
 
 </nav>

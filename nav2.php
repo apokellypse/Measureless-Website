@@ -7,8 +7,8 @@
     	<li><a href="media.php">media</a></li>
    		<li><a href="getinvolved.php">get involved</a></li>
     </ul>
-	<a href="index.php" id="home">MEASURELESS</a>
-        <p class="gonzo">Cornell's Christian Acapella</p>
+	<a href="index.php" id="home">Measureless</a>
+        <p class="gonzo"><a href="index.php">Cornell's Christian Acapella</a></p>
     
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>

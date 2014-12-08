@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<?php include "meta.php";?>
-        <title>Measureless Acapella</title>
+        <title>Measureless A capella</title>
 
   	</head>
 

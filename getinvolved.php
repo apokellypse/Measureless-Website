@@ -15,11 +15,11 @@
         <ul>
             <li><h5>President</h5>
                 <p class="name">Andrew Park</p>
-                <p>akp67@cornell.edu</p>
+                <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu></a></p>
             </li>
             <li><h5>Public Relations</h5>
                 <p class="name">Charlie Qian</p>
-                <p>cq38@cornell.edu</p>
+                <p><a href="mailto:cq38@cornell.edu">cq38@cornell.edu</a></p>
             </li>
         </ul>
         
@@ -27,9 +27,9 @@
         <div class="contactdiv" id="contactemail">
             <h1>Want to join Measureless?</h1>
             <p id="download"><a href="downloads/application.doc" download>
-                Click here</a> to download an application form:</p>
+                Download an application form:</a> </p>
             <p>For questions about auditions:</p>
-            <p id="email">cornell.measureless@gmail.com</p>
+            <p id="email"><a href="mailto:cornell.measureless@gmail.com"> cornell.measureless@gmail.com </a></p>
         </div>
 
         <h1>Submit Applications Here</h1>

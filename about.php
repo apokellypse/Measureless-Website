@@ -13,8 +13,8 @@
 
 		<div class="content" id="history">                
 			<h2>History</h2>
-			<p>Measureless is by no means new here at Cornell. In fact, Measureless was formed over a decade ago as the fusion of two of Cornell's other acapella groups: The Atonements and The Grace Notes. Since its inception, Measureless has performed at coffeehouses and concerts around campus, traveled to colleges from Pittsburgh to Boston, and had arch-sings with groups such as The Class Notes and Last Call.</p> 
-			<p>Over the course of its lifetime, Measureless' personality, and style have evolved with its members year by year. However, two things have remained constant all throughout--its mission and its God. With God as our rock, purpose, and inspiration, we hope to be a blessing and a light to the Cornell community and beyond for many more years to come.</p>
+			<p>Measureless is by no means new here at Cornell. In fact, Measureless was formed over a decade ago as the fusion of two of Cornell's other a capella groups: The Atonements and The Grace Notes. Since its inception, Measureless has performed at coffeehouses and concerts around campus, traveled to colleges from Pittsburgh to Boston, and had arch-sings with groups such as The Class Notes and Last Call.</p> 
+			<p>Over the course of its lifetime, Measureless' personality, and style have evolved with its members year by year. However, two things have remained constant all throughout - its mission and its God. With God as our rock, purpose, and inspiration, we hope to be a blessing and a light to the Cornell community and beyond for many more years to come.</p>
         </div>
         
         <div class="content" id="why">

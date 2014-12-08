@@ -33,11 +33,11 @@
     	<div class="content" id="announcements">
 	        <h2>Announcements</h2>
             
-            <div class="date">
-            Nov<br> 22
-            </div> <p> <em>3:00PM</em> <a href="https://www.facebook.com/events/1721306878094811/"> Winter Concert </a> &zwnj; &zwnj; - &zwnj; &zwnj; Anabel Taylor Hall Chapel
-            
-            </p>
+            <div class="date">Nov<br>22</div>
+            <p><em>3:00PM</em><a target="_blank" href="https://www.facebook.com/events/1721306878094811/"> Winter Concert </a> &zwnj; &zwnj; - &zwnj; &zwnj; Anabel Taylor Hall Chapel</p>
+
+            <div class="date">Dec<br>6</div>
+            <p><em>6:00PM</em><a target="_blank" href="https://www.facebook.com/events/745530378874210/"> CBS Felly Dinner Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; St Luke Lutheran Church Elca</p>
             
 	    </div>
 	    

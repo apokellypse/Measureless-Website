@@ -36,7 +36,7 @@ nav li {
 #home {
     letter-spacing: 8px;
     font-family: Lora, serif;
-    font-size: 1em;
+    font-size: 1.1em;
     margin: 5px 0 0 0;
     color: #555;
     display: inline-block;
@@ -115,12 +115,13 @@ h4 em {
     right: 0;
 }
 
-#subtitle {
+#subtitle, #home {
     font-family: Lora, sans-serif;
+    color: #000;
 }
 
-#subtitle > a:hover {
-    color: #305a68;
+#subtitle > a:hover, #subtitle > a {
+    color: #000;
 }
 
 /*
@@ -273,7 +274,7 @@ img {width: 150px;
     padding-top: 15px;
     float: left;
     font-family: Raleway, sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     line-height: 25px;
     border: 5px solid white;
     box-shadow: 0 0 4px #305a68;

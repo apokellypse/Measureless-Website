@@ -186,10 +186,22 @@ iframe {
     padding: 5%;
     text-align: center;
 }
-
-.mobileview h2 {
-    bottom: 0;
+.view p {
+    transform: none;
 }
+.view h2 {
+    position: static;
+    margin-top: 47%;
+}
+.view:hover img { 
+    transform: none;
+} 
+.view:hover h2 {
+    opacity: 1;
+    transform:none;
+    top: 0;
+}
+
 .view {
     border: 0;
     float: none;

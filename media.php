@@ -7,7 +7,7 @@
 
 	<body>
 
-		<?php include "nav2.php";?>    
+		<?php include "nav.php";?>    
         
             
 		<div class="content" id="video">

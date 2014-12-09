@@ -5,7 +5,7 @@
 		<title>About Measureless</title>
 	</head>
 	<body>
-		<?php include "nav2.php";?>    
+		<?php include "nav.php";?>    
 		<div class="content" id="mission">
 			<h2>Mission Statement</h2>
 			<p>Because of the hope we have in Jesus Christ, we seek to glorify God by proclaiming his measureless love and salvation, by worshipping Him with our voices and testimonies, and by serving the Cornell community and beyond through a cappella music.</p>

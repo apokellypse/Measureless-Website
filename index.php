@@ -7,7 +7,7 @@
   	</head>
 
 	<body>
-       	<?php include "nav2.php";?> 
+       	<?php include "nav.php";?> 
 
         <div id="slideshow">
             <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">

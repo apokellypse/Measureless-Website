@@ -11,7 +11,7 @@
 		<h2>Get Involved</h2>
 
         <div class="contactdiv" id="contactofficer">
-        <h1>For General Questions</h1>
+        <h3>For General Questions</h3>
         <div class="contactdiv"><h5>President</h5>
                 <p class="name">Andrew Park</p>
                 <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu</a></p>
@@ -25,7 +25,7 @@
         </div>
 
         <div class="contactdiv" id="contactemail">
-            <h3>Want to join Measureless?</h3>
+            <h2>Want to join Measureless?</h2>
             <p id="download"><a href="downloads/application.doc" download>
                 Click to Download an application form!</a> </p>
             <p><br>For questions about auditions:</p>

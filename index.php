@@ -10,7 +10,8 @@
        	<?php include "nav.php";?> 
 
         <div id="slideshow">
-            <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+            <div id="blueimp-gallery-carousel" 
+            class="blueimp-gallery blueimp-gallery-carousel">
                 <div class="slides"></div>
                 <h3 class="title"></h3>
                 <a class="prev">‹</a>
@@ -35,22 +36,39 @@
             
             <div class="datebox">
                 <div class="date">Nov<br>22</div>
-                <p><em>3:00PM</em><a target="_blank" href="https://www.facebook.com/events/1721306878094811/"> Winter Concert </a> &zwnj; &zwnj; - &zwnj; &zwnj; Anabel Taylor Hall Chapel</p>
+                <p><em>3:00PM</em><a target="_blank" 
+                    href="https://www.facebook.com/events/1721306878094811/"> 
+                    Winter Concert </a> &zwnj; &zwnj; - &zwnj; &zwnj; 
+                    Anabel Taylor Hall Chapel</p>
             </div>
 
             <div class="datebox">
                 <div class="date">Dec<br>6</div>
-                <p><em>6:00PM</em><a target="_blank" href="https://www.facebook.com/events/745530378874210/"> CBS Felly Dinner Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; St Luke Lutheran Church</p>
+                <p><em>6:00PM</em><a target="_blank" 
+                    href="https://www.facebook.com/events/745530378874210/"> 
+                    CBS Felly Dinner Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; 
+                    St Luke Lutheran Church</p>
             </div>
 
             <div class="datebox">
+                <div class="date">Dec<br>9</div>
+                <p><em>7:00PM</em><a target="_blank" 
+                    href="https://www.facebook.com/events/717308188359807/"> 
+                    AAIV Felly Dessert Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; 
+                    St Luke Lutheran Church</p>
+            </div>
+
+
+            <div class="datebox">
                 <div class="date">Apr<br>TBD</div>
-                <p><em>Time TBD</em> Possible Asia Night Feature </a> &zwnj; &zwnj; - &zwnj; &zwnj; Location TBD</p>
+                <p><em>Time TBD</em> Possible Asia Night Feature 
+                    &zwnj; &zwnj; - &zwnj; &zwnj; Location TBD</p>
             </div>
 
             <div class="datebox">
                 <div class="date">May<br>TBD</div>
-                <p><em>Time TBD</em> 2015 Spring Concert </a> &zwnj; &zwnj; - &zwnj; &zwnj; Location TBD</p>
+                <p><em>Time TBD</em> 2015 Spring Concert 
+                    &zwnj; &zwnj; - &zwnj; &zwnj; Location TBD</p>
             </div>
 
 

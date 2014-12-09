@@ -7,14 +7,13 @@
 <!--Title should be defined on each page separately-->
 <!-- <title>Cornell Measureless A Capella</title> -->
 
-<!--Tab Icon-->
-<!-- <link rel="icon" type="image/ico" href=""> -->
-
 <!--Stylesheets-->
 <link href="http://fonts.googleapis.com/css?family=Lora" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Raleway:400,300" rel="stylesheet" type="text/css">
+<!--Tab Icon -->
 <link rel="shortcut icon" href="img/favicon.ico?v=1">
 <link rel="stylesheet" href="css/main.css">
+<!--Responsive/Mobile-Friendly-->
 <link rel='stylesheet' media='screen and (max-width: 300px)' href='css/narrow.css' />    
 <link rel='stylesheet' media='screen 
 and (min-device-width : 10em) 
@@ -22,4 +21,5 @@ and (max-device-width : 30em)' href='css/narrow.css' />
 <link rel="stylesheet" href="css/blueimp-gallery.min.css">
 
 <!--Scripts-->
-<!-- <script src=""></script> -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/custom.js"></script>

@@ -12,15 +12,18 @@
 
         <div class="contactdiv" id="contactofficer">
         <h3>For General Questions</h3>
-        <div class="contactdiv"><h5>President</h5>
-                <p class="name">Andrew Park</p>
-                <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu</a></p>
+        <div class="contactdiv">
+            <h5>President</h5>
+            <p class="name">Andrew Park</p>
+            <p><a href="mailto:akp67@cornell.edu">akp67@cornell.edu</a></p>
         </div>
         <div class="contactdiv">
-            <li><h5>Public Relations</h5>
-                <p class="name">Charlie Qian</p>
-                <p><a href="mailto:cq38@cornell.edu">cq38@cornell.edu</a></p>
-            </li>
+            <ul>
+                <li><h5>Public Relations</h5>
+                    <p class="name">Charlie Qian</p>
+                    <p><a href="mailto:cq38@cornell.edu">cq38@cornell.edu</a></p>
+                </li>
+            </ul>
         </div>
         </div>
 
@@ -29,7 +32,8 @@
             <p id="download"><a href="downloads/application.doc" download>
                 Click to Download an application form!</a> </p>
             <p><br>For questions about auditions:</p>
-            <p id="email"><a href="mailto:cornell.measureless@gmail.com"> cornell.measureless@gmail.com </a></p>
+            <p id="email"><a href="mailto:cornell.measureless@gmail.com"> i
+                cornell.measureless@gmail.com </a></p>
         </div>
 
         <div class="contactdiv">        
@@ -158,17 +162,17 @@
         <form action="getinvolved.php" method="post" enctype="multipart/form-data">
             <table>
                 <tr>
-                    <td class="tweakcell"><label for="text">First Name:</label></td>
+                    <td class="tweakcell"><label>First Name:</label></td>
                     <td><input required type="text" name="first" value="<?=$firstName;?>" 
-                        maxlength="7" placeholder="type here"></td>
+                        maxlength="7" placeholder="First Name"></td>
                 </tr>
                 <tr>
-                    <td class="tweakcell"><label for="text">Last Name:</label></td>
+                    <td class="tweakcell"><label>Last Name:</label></td>
                     <td><input required type="text" name="last" value="<?=$lastName;?>" 
-                        maxlength="7" placeholder="type here"></td>
+                        maxlength="7" placeholder="Last Name"></td>
                 </tr>
                 <tr>
-                    <td class="tweakcell"><label for="file">Browse:</label></td>
+                    <td class="tweakcell"><label>Browse:</label></td>
                     <td><input required type="file" name="the_file" id="file"></td>
                 </tr>
                 <tr>

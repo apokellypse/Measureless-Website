@@ -38,11 +38,11 @@
 				<p>2014 Spring Concert</p>
 			</div>
             
-            </div>
+        </div>
         
         <!-- SECOND DIV -->
         
-        		<div class="content" id="video2">
+   		<div class="content" id="video2">
 
 			<iframe src="//www.youtube.com/embed/r-MoAzhZjdY" allowfullscreen></iframe>
 			<div class="vidinfo">
@@ -61,18 +61,9 @@
                 <h5>“Beautiful You”</h5>
 				<p>2011 Break It Down Boston</p>
 			</div>
-    </li>
 
 	    </div>
 
-	<!--If provided, music samples here-->
-
-	<!--If provided, recruiting video here-->
-
-	<!--If provided, group pictures / candids here-->
-
-	<!--If provided, old posters / promotional items maybe here-->
-	    
 		<?php include "footer.php";?>
 	</body>
 </html>

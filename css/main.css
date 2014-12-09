@@ -31,8 +31,6 @@ nav li {
     display: inline-block;
     margin: 0 2% 0 2%;
     vertical-align: middle;
-
-
 }
 #home {
     letter-spacing: 8px;
@@ -698,12 +696,25 @@ footer li {
     #member div.view h2:hover {
         /*bottom: -180px;*/
     }
+    nav {
+        font-size: 90%;
+        height: 90%;
+    }
+    nav ul {
+        padding: 0;
+    }
+    nav li {
+        margin: 0 0 0 0;
+    }
 }
 
 @media (max-width: 700px) {
     .view h2, .view:hover h2 {
         /*bottom: -180px;*/
         top: 150px;
+    }
+    nav {
+        font-size: 80%;
     }
 }
 
@@ -722,5 +733,9 @@ footer li {
     div.view {
         width: 100%;
         height: 60vw;
+    }
+    
+    nav {
+        font-size: 70%;
     }
 }
